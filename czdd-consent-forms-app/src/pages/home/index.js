@@ -1,14 +1,15 @@
 import React from "react";
-import {Link } from "react-router-dom";
+
 
 function Home (){
-
     return(
-
         <div>
-        <h1>home</h1>
-    </div>
-    )
+        <h1>Hello</h1>
+        <h2>h2</h2>
+
+        </div>
+       
+    );
 
    
 }

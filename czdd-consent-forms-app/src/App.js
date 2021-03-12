@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <Wrapper>
-        <Route exact path="/CZDDS-ConsentForms/" component={Home}/>
+        <Route exact path="/CZDDS-ConsentForms/" component={Home} />
       </Wrapper>
     </Router>
 
