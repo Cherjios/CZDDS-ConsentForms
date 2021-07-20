@@ -5,7 +5,7 @@ function ExtractionsSp (){
     return (
 
         <div>
-            <h1>Extractions</h1>
+            <h1>Extractiones</h1>
         </div>
     )
 }
