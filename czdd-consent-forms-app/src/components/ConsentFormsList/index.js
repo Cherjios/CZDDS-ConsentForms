@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Content() {
     return (
@@ -7,7 +8,8 @@ function Content() {
                 <div className="col">
                     <h1>English</h1>
                     <ul class="list-group">
-                        <li class="list-group-item">Extraction</li>
+                        <li class="list-group-item">
+                            <Link to="/CZDDS-ConsentForms/extractions" >Extraction</Link></li>
                         <li class="list-group-item">Deep Cleaning</li>
                         <li class="list-group-item">Root Canal</li>
                         <li class="list-group-item">Crown</li>
@@ -18,7 +20,8 @@ function Content() {
                 <div className="col">
                     <h1>Spanish</h1>
                     <ul class="list-group">
-                        <li class="list-group-item">Estracciones</li>
+                        <li class="list-group-item">
+                            <Link to="/CZDDS-ConsentForms/extractions-sp">Estracciones</Link></li>
                         <li class="list-group-item">Limpieza Profunda</li>
                         <li class="list-group-item">Root Canal</li>
                         <li class="list-group-item">Coronas</li>
