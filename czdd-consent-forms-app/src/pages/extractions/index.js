@@ -1,6 +1,7 @@
 import React from "react";
 import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
+import Proceets from "../../components/proceets";
 
 function Extractions() {
 
@@ -88,6 +89,15 @@ function Extractions() {
 
                 </div>
             </div>
+
+            <div className="row">
+                <div className="col">
+                    <Proceets/>
+
+                </div>
+            </div>
+
+
 
         </div>
     )
