@@ -1,7 +1,14 @@
+import { addLeadingSlash } from "history/PathUtils";
 import React from "react";
 import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
 import Proceets from "../../components/proceets";
+import "./style.css"
+
+
+
+
+
 
 function Extractions() {
 
@@ -12,7 +19,7 @@ function Extractions() {
             <div className="row">
                 <div className="col"> <Navbar /></div>
             </div>
-            <br/>
+            <br />
             <div className="row">
                 <div className="col"> <Jumbotron /></div>
             </div>
@@ -89,10 +96,10 @@ function Extractions() {
 
                 </div>
             </div>
-
+            <br />
             <div className="row">
                 <div className="col">
-                    <Proceets/>
+                    <Proceets />
 
                 </div>
             </div>

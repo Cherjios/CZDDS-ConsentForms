@@ -4,7 +4,7 @@ function Proceets (){
 
     return(
         <div>
-            <h2>Proceed to the front desk to sign the consent form</h2>
+            <h2>PROCEED TO THE FRONT DESK TO SIGN THE CONSENT FORM</h2>
         </div>
     );
 }
