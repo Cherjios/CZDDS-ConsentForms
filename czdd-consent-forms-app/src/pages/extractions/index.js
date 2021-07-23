@@ -6,10 +6,6 @@ import Proceets from "../../components/proceets";
 import "./style.css"
 
 
-
-
-
-
 function Extractions() {
 
     return (
@@ -25,7 +21,7 @@ function Extractions() {
             </div>
 
             <div className="row">
-                <div className="col"> <h1>INFORMED CONSENT FOR EXTRACTION</h1></div>
+                <div className="col"> <h1 className="title">INFORMED CONSENT FOR EXTRACTION</h1></div>
             </div>
             <br />
             <div className="row">
