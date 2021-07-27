@@ -80,6 +80,7 @@ function Extractions() {
                 </div>
             </div>
 
+            <br/>
             <div className="row">
                 <div className="col">
                     <h3>ALTERNATIVE TREATMENTS IF EXTRACTION NOT THE ONLY SOLUTION  (Not limited to the following)</h3>
