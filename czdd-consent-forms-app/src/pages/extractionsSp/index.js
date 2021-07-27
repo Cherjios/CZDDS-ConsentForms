@@ -30,30 +30,30 @@ function ExtractionsSp() {
                     <ol>
                         <li>Una extracción implica la sacada de uno o más dientes. Dependiendo de su condición, esto puede requerir seccionar los dientes o recortar la encía o el tejido óseo. En cualquier momento durante el tratamiento usted puedo ser referdio a un cirujano oral, que es un especialista en cirugía dental.</li>
                         <li>Una vez que se extrae el diente, tendrá un espacio que quizás desee llenar con un aparato fijo o removible.</li>
-                        <li>Replacement of missing teeth may be necessary to prevent the drifting of adjacent and/or opposing teeth to maintain function, or for cosmetic appearances. The options of a removable appliance will be explained to you.</li>
-                        <li>As in all surgical procedures, extractions may no be perfectly safe. Since each person is unique and responds differently to surgery, the healing process may vary; no guarantees can be made. </li>
+                        <li>Puede ser necesario reemplazar los dientes faltantes para evitar que los dientes adyacentes y / o opuestos se muevan para mantener la función, o por apariencia estética. Se le explicarán las opciones de un removible, puente o implante.</li>
+                        <li>Como en todos los procedimientos quirúrgicos, es posible que las extracciones no sean del todo seguras. Dado que cada persona es única y responde de manera diferente a la cirugía, el proceso de curación puede variar; no se pueden ofrecer garantías. </li>
                     </ol>
                 </div>
             </div>
             <br />
             <div className="row">
-                <div className="col"> <h3>BENEFITS OF EXTRACTION (Not limited to the following)</h3></div>
+                <div className="col"> <h3>BENEFICIOS DE LA EXTRACCIÓN (No limitado a lo siguiente)</h3></div>
             </div>
             <div className="row">
                 <div className="col">
                     <ol>
-                        <li>The proposed treatment should help to relieve you symptoms and may also enable you to proceed with further proposed treatment.  </li>
+                        <li>El tratamiento propuesto debería ayudar a aliviar sus síntomas (dolor) y también puede permitirle continuar con el tratamiento  adicional propuesto. </li>
                     </ol>
                 </div>
             </div>
             <br />
             <div className="row">
-                <div className="col"> <h3>RISKS OF EXTRACTION (Not limited to the following)</h3></div>
+                <div className="col"> <h3>RIESGOS DE EXTRACCIÓN (No limitado a lo siguiente)</h3></div>
             </div>
             <div className="row">
                 <div className="col">
                     <ol>
-                        <li>I understand that following treatment I may experience bleeding, pain, swelling, and discomfort for several days, which may be treated with pain medication. It is possible infection can follow extraction and must be treated with antibiotics or other procedures. I will contact the office immediately if symptoms persist or worsen.</li>
+                        <li>Entiendo que después del tratamiento puedo experimentar sangrado, dolor, hinchazón y malestar durante varios días, que pueden tratarse con analgésicos. Se puede generar una posible infeccion después de la extracción y debe tratarse con antibióticos u otros procedimientos. Me comunicaré con la oficina de inmediato si los síntomas persisten o empeoran.</li>
                         <li>I understand that I will receive a local anesthetic and/or other medication. In rare instances patients have a reaction to the anesthetic, which may require emergency medical attention, or find that it reduces their ability to control swallowing. This increases the chance of swallowing foreign objects during treatment. Depending on the anesthesia and medications administered, I may need a designated driver to take me home. Rarely, temporary or permanent nerve injury can result from an injection. </li>
                         <li>I understand that all medications have the potential for accompanying risk, side effects, and drug interactions. Therefore, it is critical that I tell my dentist of all medications I am currently taking. </li>
                         <li>I understand that holding my mouth open during treatment may temporarily leave my jaw feeling stiff and sore and may make it difficult for me to open wide for several days. However, this can occasionally be an indication of further problem. I must notify your office if this or other concerns arise. </li>

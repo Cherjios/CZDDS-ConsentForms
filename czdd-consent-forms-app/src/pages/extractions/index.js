@@ -44,7 +44,7 @@ function Extractions() {
             <div className="row">
                 <div className="col">
                     <ol>
-                        <li>The proposed treatment should help to relieve you symptoms and may also enable you to proceed with further proposed treatment.  </li>
+                        <li>The proposed treatment should help to relieve your symptoms and may also enable you to proceed with the further proposed treatment.  </li>
                     </ol>
                 </div>
             </div>
