@@ -21,8 +21,9 @@ function Extractions() {
             <div className="row">
                 <div className="col"> <Jumbotron /></div>
             </div>
+           
             <div className="textlink1">
-            <Link to ="/CZDDS-ConsentForms/extractions-sp" className="textlink2">Spanish </Link>
+            <Link to ="/CZDDS-ConsentForms/extractions-sp" className="textlink2">Español</Link>
             </div>
           
             <div className="row">

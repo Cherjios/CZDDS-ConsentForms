@@ -2,6 +2,7 @@ import React from "react";
 import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
 import SPproceets from "../../components/SPproceets";
+import { Link } from "react-router-dom";
 import "./style.css"
 
 function ExtractionsSp() {
@@ -17,7 +18,11 @@ function ExtractionsSp() {
             <div className="row">
                 <div className="col"> <Jumbotron /></div>
             </div>
-
+            
+            <div className="textlink1">
+            <Link to ="/CZDDS-ConsentForms/extractions" className="textlink2">English </Link>
+            
+            </div>
             <div className="row">
                 <div className="col"> <h1 className="title">CONSENTIMIENTO INFORMATIVO PARA EXTRACCIONES</h1></div>
             </div>
