@@ -1,7 +1,7 @@
 import React from "react";
 import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
-import Proceets from "../../components/proceets";
+import SPproceets from "../../components/SPproceets";
 import "./style.css"
 
 function ExtractionsSp() {
@@ -93,7 +93,7 @@ function ExtractionsSp() {
             <br />
             <div className="row">
                 <div className="col">
-                    <Proceets />
+                    <SPproceets />
 
                 </div>
             </div>
