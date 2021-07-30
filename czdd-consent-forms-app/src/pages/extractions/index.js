@@ -3,6 +3,7 @@ import React from "react";
 import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
 import Proceets from "../../components/proceets";
+import { Link } from "react-router-dom";
 import "./style.css"
 
 
@@ -13,13 +14,17 @@ function Extractions() {
         <div className="container">
 
             <div className="row">
-                <div className="col"> <Navbar /></div>
+                <div className="col"> <Navbar /> 
+                </div>
             </div>
             <br />
             <div className="row">
                 <div className="col"> <Jumbotron /></div>
             </div>
-
+            <div className="textlink1">
+            <Link to ="/CZDDS-ConsentForms/extractions-sp" className="textlink2">Spanish </Link>
+            </div>
+          
             <div className="row">
                 <div className="col"> <h1 className="title">INFORMED CONSENT FOR EXTRACTION</h1></div>
             </div>

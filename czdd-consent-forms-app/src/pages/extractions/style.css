@@ -10,3 +10,12 @@ h3, h1.title{
     text-align: center;
 
 }
+.textlink1{
+    text-align: right;
+    font-weight: 600;
+    font-size: 120%;
+}
+
+.textlink2{
+    color: red;
+}
