@@ -30,6 +30,20 @@ function Deepcleaning() {
             </div>
             <br />
 
+            <div className="row">
+                <div className="col"> <h2 className="title">PATIENT KNOWLEDGE</h2></div>
+                <ol>
+                    <li>I understand that I have periodontal (gum and bone) disease. This disease process has been explained to me and I understand it is caused by bacterial toxins cause. I realize that this disease may be painless and asymptomatic, but that usually symptoms such as bleeding, swelling or recession of gum tissue, loosened teeth, elongated teeth, bad breath, sensitivity and soreness may be noticed.</li>
+                    <li>I understand that treatment of periodontal disease may include periodontal scaling and root planning, either as a therapeutic procedure or preliminary to more extensive treatment. Periodontal scaling and root planning is the removal calculus, bacterial plaque, bacterial toxins, diseased cementum, and diseased tissue from the inner lining crevice surrounding the teeth.</li>
+                    <li>I understand that my own efforts with home care are just as important as my professional treatment.</li>
+                    <li>I understand that some of the conditions caused by periodontal disease are irreversible.</li>
+                    <li>I understand that maintaining regular periodontal cleanings is essential.</li>
+                    <li>I understand that future re-treatment of scaling and root planning may be necessary</li>
+                </ol>
+
+            </div>
+            <br />
+
 
             <div className="row">
                 <div className="col">
