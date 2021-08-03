@@ -23,7 +23,8 @@ function Content() {
                     <ul class="list-group">
                         <li class="list-group-item">
                             <Link to="/CZDDS-ConsentForms/extractions-sp">Estracciones</Link></li>
-                        <li class="list-group-item">Limpieza Profunda</li>
+                        <li class="list-group-item">
+                            <Link to ="/CZDDS-ConsentForms/deep-cleaning-sp">Limpieza Profunda</Link></li>
                         <li class="list-group-item">Root Canal</li>
                         <li class="list-group-item">Coronas</li>
                         <li class="list-group-item">Puente</li>
