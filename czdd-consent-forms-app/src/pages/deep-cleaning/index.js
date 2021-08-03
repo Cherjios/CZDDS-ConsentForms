@@ -40,7 +40,29 @@ function Deepcleaning() {
                     <li>I understand that maintaining regular periodontal cleanings is essential.</li>
                     <li>I understand that future re-treatment of scaling and root planning may be necessary</li>
                 </ol>
+            </div>
+            <br />
 
+            <div className="row">
+                <div className="col"> <h2 className="title">BENEFITS OF PERIODONTAL TREATMENT (Not limited to the following)</h2></div>
+                <ol>
+                    <li>The purpose and benefit of this procedure is to reduce some of the causes of periodontal disease to a level more manageable by my own individual immune system.</li>
+                </ol>
+            </div>
+            <br />
+
+            <div className="row">
+                <div className="col"> <h2 className="title">RISKS OF PERIODONTAL TREATMENT (Not limited to the following)</h2></div>
+                <ol>
+                    <li>Increased recession of the gum tissue and exposure of root surfaces as the tissue heals, and swelling decreases.</li>
+                    <li>Some pain, swelling or bruising may be experienced after treatment.</li>
+                        <li>Increased sensitivity during future cleanings as well as to hot, cold or sweets
+                            <ol>
+                                <li>This may require further treatment, may fade with time or may persist no matter what is done</li>
+                            </ol>
+                        </li>
+                        
+                </ol>
             </div>
             <br />
 
