@@ -27,19 +27,19 @@ function Deepcleaningsp (){
             </div>
 
             <div className="row">
-                <div className="col"> <h1 className="title">INFORMED CONSENT FOR DEEP CLEANING</h1></div>
+                <div className="col"> <h1 className="title">CONSENTIMIENTO INFORMATIVO PARA LIMPIEZA PROFUNDA</h1></div>
             </div>
             <br />
 
             <div className="row">
-                <div className="col"> <h2 className="title">PATIENT KNOWLEDGE</h2></div>
+                <div className="col"> <h2 className="title">CONOCIMIENTO DEL PACIENTE</h2></div>
                 <ol>
-                    <li>I understand that I have periodontal (gum and bone) disease. This disease process has been explained to me and I understand it is caused by bacterial toxins cause. I realize that this disease may be painless and asymptomatic, but that usually symptoms such as bleeding, swelling or recession of gum tissue, loosened teeth, elongated teeth, bad breath, sensitivity and soreness may be noticed.</li>
-                    <li>I understand that treatment of periodontal disease may include periodontal scaling and root planning, either as a therapeutic procedure or preliminary to more extensive treatment. Periodontal scaling and root planning is the removal calculus, bacterial plaque, bacterial toxins, diseased cementum, and diseased tissue from the inner lining crevice surrounding the teeth.</li>
-                    <li>I understand that my own efforts with home care are just as important as my professional treatment.</li>
-                    <li>I understand that some of the conditions caused by periodontal disease are irreversible.</li>
-                    <li>I understand that maintaining regular periodontal cleanings is essential.</li>
-                    <li>I understand that future re-treatment of scaling and root planning may be necessary</li>
+                <li> Entiendo que tengo una enfermedad periodontal (de las encías y los huesos). El desarrollo de la enfermedad me ha sido explicado y entiendo que es causada por las toxinas bacterianas. Me doy cuenta de que esta enfermedad puede ser indolora y asintomática, pero que por lo general se pueden notar síntomas como sangrado, hinchazón o recesión del tejido de las encías, dientes flojos, dientes alargados, mal aliento, sensibilidad y dolor. </li>
+                    <li> Entiendo que el tratamiento de la enfermedad periodontal puede incluir raspado periodontal y alisado radicular, ya sea como un procedimiento terapéutico o preliminar a un tratamiento más extenso. El raspado periodontal y el alisado radicular son la eliminación de sarro, placa bacteriana, toxinas bacterianas, cemento enfermo y tejido enfermo del revestimiento interno que rodea los dientes. </li>
+                    <li> Entiendo que mis propios esfuerzos con la atención domiciliaria son tan importantes como mi tratamiento profesional. </li>
+                    <li> Entiendo que algunas de las afecciones causadas por la enfermedad periodontal son irreversibles. </li>
+                    <li> Entiendo que mantener limpiezas periodontales regulares es esencial. </li>
+                    <li> Entiendo que en el futuro podría ser necesario un re-tratamiento de limpieza profunda</li>
                 </ol>
             </div>
             <br />
