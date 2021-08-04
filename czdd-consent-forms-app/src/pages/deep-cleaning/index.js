@@ -87,14 +87,7 @@ function Deepcleaning() {
             </div>
             <br />
 
-
-            <div className="row">
-                <div className="col">
-                    <Proceets />
-                </div>
-
-
-            </div>
+            
         </div>
     )
 }
