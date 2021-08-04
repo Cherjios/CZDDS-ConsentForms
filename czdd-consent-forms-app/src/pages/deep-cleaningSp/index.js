@@ -45,22 +45,19 @@ function Deepcleaningsp (){
             <br />
 
             <div className="row">
-                <div className="col"> <h2 className="title">BENEFITS OF PERIODONTAL TREATMENT (Not limited to the following)</h2></div>
+                <div className="col"> <h2 className="title">BENEFICIOS DEL TRATAMIENTO PERIODONTAL (No limitado a lo siguiente)</h2></div>
                 <ol>
-                    <li>The purpose and benefit of this procedure is to reduce some of the causes of periodontal disease to a level more manageable by my own individual immune system.</li>
+                    <li>El propósito y el beneficio de este procedimiento es reducir algunas de las causas de la enfermedad periodontal a un nivel más manejable para mi propio sistema inmunológico.</li>
                 </ol>
             </div>
             <br />
 
             <div className="row">
-                <div className="col"> <h2 className="title">RISKS OF PERIODONTAL TREATMENT (Not limited to the following)</h2></div>
+                <div className="col"> <h2 className="title">RIESGOS DEL TRATAMIENTO PERIODONTAL (No limitado a lo siguiente)</h2></div>
                 <ol>
-                    <li>Increased recession of the gum tissue and exposure of root surfaces as the tissue heals, and swelling decreases.</li>
-                    <li>Some pain, swelling or bruising may be experienced after treatment.</li>
-                    <li>Increased sensitivity during future cleanings as well as to hot, cold or sweets</li>
-                    <ol type="a">
-                        <li>This may require further treatment, may fade with time or may persist no matter what is done</li>
-                    </ol>
+                    <li>El aumento de la recesión del tejido de las encías y la exposición de las superficies de las raíces a medida que el tejido cicatriza y la hinchazón disminuye.</li>
+                    <li>Es posible que experimente algo de dolor, hinchazón o hematomas después del tratamiento..</li>
+                    <li>Mayor sensibilidad en las limpiezas futuras, así como al calor, el frío o lo dulce (Esto puede requerir un tratamiento adicional, puede desaparecer con el tiempo o puede persistir sin importar lo que se haga.)</li>
                 </ol>
             </div>
             <br />
