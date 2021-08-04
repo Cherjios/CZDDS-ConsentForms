@@ -56,12 +56,20 @@ function Deepcleaning() {
                 <ol>
                     <li>Increased recession of the gum tissue and exposure of root surfaces as the tissue heals, and swelling decreases.</li>
                     <li>Some pain, swelling or bruising may be experienced after treatment.</li>
-                        <li>Increased sensitivity during future cleanings as well as to hot, cold or sweets
-                            <ol>
-                                <li>This may require further treatment, may fade with time or may persist no matter what is done</li>
-                            </ol>
-                        </li>
-                        
+                    <li>Increased sensitivity during future cleanings as well as to hot, cold or sweets</li>
+                    <ol type="a">
+                        <li>This may require further treatment, may fade with time or may persist no matter what is done</li>
+                    </ol>
+                </ol>
+            </div>
+            <br />
+
+            <div className="row">
+                <div className="col"> <h2 className="title">CONSEQUENCES IF NO TREATMENT ADMINISTERED (Not limited to the following)</h2></div>
+                <ol>
+                    <li>Worsen of the disease causing increased bone loss, which may lead to the need for teeth to be extracted in the future.</li>
+                    <li> Increased infection, bleeding, pain and soreness.</li>
+                    <li>Possible systemic problems: Heart Disease, Stroke, Diabetes, Respiratory Disease, etc.</li>
                 </ol>
             </div>
             <br />

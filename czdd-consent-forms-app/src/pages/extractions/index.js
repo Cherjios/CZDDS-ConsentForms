@@ -3,7 +3,6 @@ import React from "react";
 import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
 import Proceets from "../../components/proceets";
-import { Link } from "react-router-dom";
 import "./style.css"
 
 
@@ -14,18 +13,13 @@ function Extractions() {
         <div className="container">
 
             <div className="row">
-                <div className="col"> <Navbar /> 
-                </div>
+                <div className="col"> <Navbar /></div>
             </div>
             <br />
             <div className="row">
                 <div className="col"> <Jumbotron /></div>
             </div>
-           
-            <div className="textlink1">
-            <Link to ="/CZDDS-ConsentForms/extractions-sp" className="textlink2">Español</Link>
-            </div>
-          
+
             <div className="row">
                 <div className="col"> <h1 className="title">INFORMED CONSENT FOR EXTRACTION</h1></div>
             </div>
@@ -69,7 +63,7 @@ function Extractions() {
                         <li>I understand that the instruments used in extracting a tooth may unavoidably chip or damage adjacent teeth, which could require further treatment to restore their appearance or function.</li>
                         <li>I understand that the upper teeth have roots that may extend close to the sinuses. Removing these teeth may temporarily leave a small opening into the sinuses. Antibiotics and additional treatment may be needed to prevent sinus infection and help this opening to close.</li>
                         <li>I understand that extraction may cause a fracture in the surrounding bone. Occasionally, the tooth to be extracted may be fused to the surrounding bone. In both situations, additional treatment is necessary. Bone fragment called “spicules” may arise at the site following the extraction and are generally easily remove.</li>
-                        <li> I understand that some tooth fragments might be left behind at the extraction sites depending on the condition and position of the tooth/teeth. In general, this causes no problems, but on rare occasions, the fragment(s) might cause infections and need to be removed.</li>
+                        <li>I understand that some tooth fragments might be left behind at the extraction sites depending on the condition and position of the tooth/teeth. In general, this causes no problems, but on rare occasions, the fragment(s) might cause infections and need to be removed.</li>
                         <li>I understand that the nerves that control sensations in my teeth, gums, tongue, lips and chin run through my jaw. Depending on the tooth to be extracted (particularly lower teeth or third molars), occasionally it may be impossible to avoid touching, moving, stretching, brushing, cutting or severing a nerve. This could change the normal sensations in any of these areas, causing itching, tingling or burning, or the loss of all sensation. These changes could last from several weeks to several months or in some cases, indefinitely.</li>
                     </ol>
                 </div>
@@ -93,7 +87,8 @@ function Extractions() {
                     <ol>
                         <li>I understand that depending on my diagnosis, alternatives to extraction may exist which involves other disciplines in dentistry. I asked my dentist about them and their respective costs. My questions have been answered to my satisfaction regarding the procedures, their risks, benefits and cost.</li>
                         <li>No guarantee or assurance has been given to me by anyone that the proposed treatment or surgery will cure or improve the conditions) listed above.</li>
-                        <li>By signing this document, I consent to the extraction described by doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to extraction treatment with the doctor. I had the opportunity to ask questions, and I understand what has been explained.</li>
+                        <li>By signing this document, I consent to the crown preparation and placement as described above by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to Crowns treatment with the doctor. I had the opportunity to ask questions, and I understand what has been explained.
+                        </li>
                     </ol>
 
                 </div>
