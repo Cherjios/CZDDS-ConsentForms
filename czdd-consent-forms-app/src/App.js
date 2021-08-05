@@ -20,8 +20,8 @@ function App() {
         <Route exact path="/CZDDS-ConsentForms/extractions-sp" component={ExtractionsSp} />
         <Route exact path="/CZDDS-ConsentForms/deep-cleaning" component={Deepcleaning}/>
         <Route exact path="/CZDDS-ConsentForms/deep-cleaning-sp" component={Deepcleaningsp}/>
-        <Route exact path="/CZDDS-ConsentFroms/root-canal" component={RootCanal}/>
-        <Route exact path="/CZDDS-ConsentFroms/root-canal-sp" component={RootCanalSp}/>
+        <Route exact path="/CZDDS-ConsentForms/root-canal" component={RootCanal}/>
+        <Route exact path="/CZDDS-ConsentForms/root-canal-sp" component={RootCanalSp}/>
         
 
         

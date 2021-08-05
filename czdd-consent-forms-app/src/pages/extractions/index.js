@@ -4,7 +4,7 @@ import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
 import Proceets from "../../components/proceets";
 import { Link } from "react-router-dom";
-import "./style.css"
+import "./style.css";
 
 
 function Extractions() {
@@ -28,6 +28,7 @@ function Extractions() {
             <div className="row">
                 <div className="col"> <h1 className="title">INFORMED CONSENT FOR EXTRACTION</h1></div>
             </div>
+            
             <br />
             <div className="row">
                 <div className="col"> <h3>FACTS  FOR CONSIDERATION </h3></div>
