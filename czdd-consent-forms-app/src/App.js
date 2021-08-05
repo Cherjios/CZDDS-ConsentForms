@@ -6,10 +6,10 @@ import Extractions from "./pages/extractions";
 import ExtractionsSp from "./pages/extractionsSp";
 import Deepcleaning from "./pages/deep-cleaning";
 import Deepcleaningsp from "./pages/deep-cleaningSp";
-
-
 import logo from './logo.svg';
 import './App.css';
+import RootCanal from "./pages/root-canal";
+import RootCanalSp from "./pages/root-canalSp";
 
 function App() {
   return (
@@ -20,6 +20,8 @@ function App() {
         <Route exact path="/CZDDS-ConsentForms/extractions-sp" component={ExtractionsSp} />
         <Route exact path="/CZDDS-ConsentForms/deep-cleaning" component={Deepcleaning}/>
         <Route exact path="/CZDDS-ConsentForms/deep-cleaning-sp" component={Deepcleaningsp}/>
+        <Route exact path="/CZDDS-ConsentFroms/root-canal" component={RootCanal}/>
+        <Route exact path="/CZDDS-ConsentFroms/root-canal-sp" component={RootCanalSp}/>
         
 
         
