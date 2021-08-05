@@ -3,6 +3,7 @@ import React from "react";
 import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
 import Proceets from "../../components/proceets";
+import { Link } from "react-router-dom";
 import "./style.css"
 
 
@@ -18,6 +19,10 @@ function Extractions() {
             <br />
             <div className="row">
                 <div className="col"> <Jumbotron /></div>
+            </div>
+
+            <div className="textlink1">
+            <Link to ="/CZDDS-ConsentForms/extractions-sp" className="textlink2">Spanish </Link>
             </div>
 
             <div className="row">

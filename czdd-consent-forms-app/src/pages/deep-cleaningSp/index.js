@@ -63,7 +63,7 @@ function Deepcleaningsp (){
             <br />
 
             <div className="row">
-                <div className="col"> <h2 className="title">CONSEQUENCES IF NO TREATMENT ADMINISTERED (Not limited to the following)</h2></div>
+                <div className="col"> <h2 className="title">CONSECUENCIAS SI NO SE ADMINISTRA TRATAMIENTO (No limitado a lo siguiente)</h2></div>
                 <ol>
                     <li>Worsen of the disease causing increased bone loss, which may lead to the need for teeth to be extracted in the future.</li>
                     <li> Increased infection, bleeding, pain and soreness.</li>

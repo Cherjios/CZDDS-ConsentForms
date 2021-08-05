@@ -28,7 +28,7 @@ function ExtractionsSp() {
             </div>
             <br />
             <div className="row">
-                <div className="col"> <h3>HECHOS PARA CONSIDERAR </h3></div>
+                <div className="col"> <h3>CONOCIMIENTO DEL PACIENTE </h3></div>
             </div>
             <div className="row">
                 <div className="col">
