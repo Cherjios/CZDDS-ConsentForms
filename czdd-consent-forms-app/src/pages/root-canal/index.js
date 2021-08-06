@@ -86,6 +86,26 @@ function RootCanal() {
             <div className="row">
                 <div className="col"><h5>After the completion of the root canal procedure, you will be referred back to your restorative dentist for the permanent restoration (filling, crown, and cap). Failure to have the tooth properly restored in a timely manner (generally within 30 days) significantly increases the possibility of failure of the root canal procedure or tooth fracture</h5></div>
             </div>
+            <br/>
+            <div className="row">
+                <div className="col"> <h3>CONSEQUENCES IF NO TREATMENT ADMINISTEED (Not limited to the following)
+</h3></div>
+            </div>
+         
+
+            <div className="row">
+                <div className="col">
+                    <ol>
+                        <li>I understand that if no treatment is performed, I may continue to experience symptoms, which could include pain and/or infection, deterioration of the bone surrounding my teeth, changes to my bite, discomfort in my jaw joint, and possibly the premature loss of other teeth.
+ </li>
+                        <li> No guarantee or assurance has been given to me by anyone that the prosed treatment or surgery will cure or improve the condition(s) listed above.
+</li>
+                        <li>By signing this document, I consent to the root canal preparation and placement as described above by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to root canal treatment with the doctor. I had the opportunity to ask questions, and I understand what has been explained.
+ </li>
+            </ol>
+                </div>
+            </div>
+            <br />
 
 
 
