@@ -51,22 +51,43 @@ function RootCanal() {
             <div className="row">
                 <div className="col">
                     <ol>
-                        <li> Instrument separation in the canal.</li> 
-                        <li> Perforations (extra openings) if the canal with instruments.</li>
+                        <li>Instrument separation in the canal.</li>
+                        <li>Perforations (extra openings) if the canal with instruments.</li>
                         <li>Blocked root canals that cannot be ideally completed.</li>
                         <li>Incomplete healing.</li>
-                            <li>Post-operative infection requiring additional treatment or the use of antibiotics.</li>
-                            <li>Tooth and/or root fracture that may require extraction.</li>
-                            <li> Fracture, chipping or loosening of existing tooth or crown. </li>
-                            <li> Post-treatment discomfort.</li>
-                            <li> Temporary or permanent numbness </li>
-                            <li> Change in the bite or jaw joint difficulty (TMJ problems or TMD)</li>
-                            <li> Medical problems may occur if I do not have the root canal completed.</li>
-                            <li>Reaction to anesthetics chemicals or medications.</li>
+                        <li>Post-operative infection requiring additional treatment or the use of antibiotics.</li>
+                        <li>Tooth and/or root fracture that may require extraction.</li>
+                        <li>Fracture, chipping or loosening of existing tooth or crown. </li>
+                        <li>Post-treatment discomfort.</li>
+                        <li>Temporary or permanent numbness </li>
+                        <li>Change in the bite or jaw joint difficulty (TMJ problems or TMD)</li>
+                        <li>Medical problems may occur if I do not have the root canal completed.</li>
+                        <li>Reaction to anesthetics chemicals or medications.</li>
                     </ol>
                 </div>
             </div>
             <br />
+
+            <div className="row">
+                <div className="col"> <h3>ALTERNATIVE TREATMENTS (Not limited to the following)</h3></div>
+            </div>
+
+            <div className="row">
+                <div className="col">
+                    <ol>
+                        <li> No treatment at all.</li>
+                        <li>Waiting for more definitive development of symptoms. </li>
+                        <li>Extraction: to be replaced with nothing, a denture, a bridge or an implant. </li>
+            </ol>
+                </div>
+            </div>
+            <br />
+
+            <div className="row">
+                <div className="col"><h5>After the completion of the root canal procedure, you will be referred back to your restorative dentist for the permanent restoration (filling, crown, and cap). Failure to have the tooth properly restored in a timely manner (generally within 30 days) significantly increases the possibility of failure of the root canal procedure or tooth fracture</h5></div>
+            </div>
+
+
 
 
 
