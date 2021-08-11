@@ -71,7 +71,25 @@ function RootCanalSp() {
             </div>
             <br />
 
+            <div className="row">
+                <div className="col"><h3> TRATAMIENTO ALTERNATIVOS (No limitado a los siguientes)</h3></div>
+            </div>
 
+            <div className="row">
+                <div className="col">
+                    <ol>
+                        <li>Ningún tratamiento en absoluto. </li>
+                        <li>Esperando un desarrollo más definitivo de los síntomas. </li>
+                        <li> Extracción: para ser reemplazado con una dentadura postiza, un puente o un implante.</li>
+            </ol>
+                </div>
+            </div>
+            <br />
+
+            <div className="row">
+                <div className="col"><h5>Después de completar el procedimiento de root canal, lo remitirán nuevamente a su dentista para una restauración permanente (relleno y/o corona). La falta de restauración adecuada del diente de manera oportuna (generalmente dentro de los 30 días) aumenta significativamente la posibilidad de falla del procedimiento de conducto radicular o fractura del diente</h5></div>
+            </div>
+            <br/>
 
         </div>
 

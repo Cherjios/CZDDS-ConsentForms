@@ -86,7 +86,7 @@ function RootCanal() {
             <br />
 
             <div className="row">
-                <div className="col"><h5>After the completion of the root canal procedure, you will be referred back to your restorative dentist for the permanent restoration (filling, crown, and cap). Failure to have the tooth properly restored in a timely manner (generally within 30 days) significantly increases the possibility of failure of the root canal procedure or tooth fracture</h5></div>
+                <div className="col"><h5>After the completion of the root canal procedure, you will be referred back to your restorative dentist for permanent restoration (filling, crown, and cap). Failure to have the tooth properly restored in a timely manner (generally within 30 days) significantly increases the possibility of failure of the root canal procedure or tooth fracture</h5></div>
             </div>
             <br/>
             <div className="row">
