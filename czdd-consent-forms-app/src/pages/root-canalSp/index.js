@@ -3,6 +3,7 @@ import "./style.css";
 import Navbar from "../../components/Navbar";
 import Jumbotron from "../../components/Jumbotron";
 import { Link } from "react-router-dom";
+import SPproceets from "../../components/SPproceets";
 
 
 
@@ -105,6 +106,13 @@ function RootCanalSp() {
                 </div>
             </div>
             <br />
+
+            <div className="row">
+                <div className="col">
+                    <SPproceets />
+
+                </div>
+            </div>
 
         </div>
 

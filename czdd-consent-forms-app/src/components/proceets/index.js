@@ -6,6 +6,8 @@ function Proceets (){
     return(
         <div>
             <h2>NOW PROCEED TO THE FRONT DESK TO SIGN THE CONSENT FORM</h2>
+            <br/>
+            <h4> Thanks!</h4>
         </div>
     );
 }
