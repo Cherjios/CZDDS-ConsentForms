@@ -90,7 +90,7 @@ function RootCanal() {
             </div>
             <br/>
             <div className="row">
-                <div className="col"> <h3>CONSEQUENCES IF NO TREATMENT ADMINISTEED (Not limited to the following)
+                <div className="col"> <h3>CONSEQUENCES IF NO TREATMENT ADMINISTERED (Not limited to the following)
 </h3></div>
             </div>
          
@@ -100,7 +100,7 @@ function RootCanal() {
                     <ol>
                         <li>I understand that if no treatment is performed, I may continue to experience symptoms, which could include pain and/or infection, deterioration of the bone surrounding my teeth, changes to my bite, discomfort in my jaw joint, and possibly the premature loss of other teeth.
  </li>
-                        <li> No guarantee or assurance has been given to me by anyone that the prosed treatment or surgery will cure or improve the condition(s) listed above.
+                        <li> No guarantee or assurance has been given to me by anyone that the proposed treatment or surgery will cure or improve the condition(s) listed above.
 </li>
                         <li>By signing this document, I consent to the root canal preparation and placement as described above by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to root canal treatment with the doctor. I had the opportunity to ask questions, and I understand what has been explained.
  </li>

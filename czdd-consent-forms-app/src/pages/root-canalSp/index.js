@@ -85,11 +85,26 @@ function RootCanalSp() {
                 </div>
             </div>
             <br />
-
             <div className="row">
                 <div className="col"><h5>Después de completar el procedimiento de root canal, lo remitirán nuevamente a su dentista para una restauración permanente (relleno y/o corona). La falta de restauración adecuada del diente de manera oportuna (generalmente dentro de los 30 días) aumenta significativamente la posibilidad de falla del procedimiento de conducto radicular o fractura del diente</h5></div>
             </div>
             <br/>
+
+            <div className="row">
+                <div className="col"> <h3>CONSECUENCIAS SI NO SE ADMINISTRA TRATAMIENTO (No limitado a lo siguiente)</h3></div>
+            </div>
+
+            <div className="row">
+                <div className="col">
+                    <ol>
+                        <li>Entiendo que si no se realiza ningún tratamiento, es posible que continúe experimentando síntomas, que podrían incluir dolor y / o infección, deterioro del hueso que rodea mis dientes, cambios en la mordida, malestar en la articulación de la mandíbula y posiblemente la pérdida prematura de otros dientes.</li>
+                        <li>Nadie me ha dado ninguna garantía o seguridad de que el tratamiento o la cirugía propuesta curarán o mejorarán los sintomas enumeradas anteriormente.
+</li>
+                        <li>Al firmar este documento, doy mi consentimiento para el tratamiento de endodoncia, según lo descrito anteriormente por el médico, Cesar E. Zamora Perez D.D.S. Doy fe de que he hablado con el médico sobre los riesgos, los beneficios, las consecuencias y las alternativas al tratamiento de conducto. Tuve la oportunidad de hacer preguntas y comprendo lo que se ha explicado. </li>
+            </ol>
+                </div>
+            </div>
+            <br />
 
         </div>
 
