@@ -10,6 +10,9 @@ import logo from './logo.svg';
 import './App.css';
 import RootCanal from "./pages/root-canal";
 import RootCanalSp from "./pages/root-canalSp";
+import Crowns from "./pages/crowns";
+import CrownsSp from "./pages/crowns-sp";
+
 
 function App() {
   return (
@@ -22,6 +25,9 @@ function App() {
         <Route exact path="/CZDDS-ConsentForms/deep-cleaning-sp" component={Deepcleaningsp}/>
         <Route exact path="/CZDDS-ConsentForms/root-canal" component={RootCanal}/>
         <Route exact path="/CZDDS-ConsentForms/root-canal-sp" component={RootCanalSp}/>
+        <Route exact path="/CZDDS-ConsentForms/crowns" component={Crowns}/>
+        <Route exact path="/CZDDS-ConsentForms/crownsSp" component={CrownsSp}/>
+
         
 
         

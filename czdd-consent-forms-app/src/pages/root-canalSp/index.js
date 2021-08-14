@@ -12,7 +12,6 @@ function RootCanalSp() {
 
     return (
         <div className="container">
-            <h1>Root canal</h1>
             <div className="row">
                 <div className="col"> <Navbar /></div>
             </div>
