@@ -28,8 +28,8 @@ function Extractions() {
             <div className="row">
                 <div className="col"> <h1 className="title">INFORMED CONSENT FOR EXTRACTION</h1></div>
             </div>
-            
             <br />
+
             <div className="row">
                 <div className="col"> <h3>FACTS  FOR CONSIDERATION </h3></div>
             </div>
@@ -44,6 +44,7 @@ function Extractions() {
                 </div>
             </div>
             <br />
+            
             <div className="row">
                 <div className="col"> <h3>BENEFITS OF EXTRACTION (Not limited to the following)</h3></div>
             </div>
