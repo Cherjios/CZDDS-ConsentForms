@@ -97,7 +97,6 @@ function Extractions() {
                         <li>By signing this document, I consent to the crown preparation and placement as described above by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to Crowns treatment with the doctor. I had the opportunity to ask questions, and I understand what has been explained.
                         </li>
                     </ol>
-
                 </div>
             </div>
             <br />
