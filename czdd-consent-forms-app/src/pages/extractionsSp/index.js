@@ -18,11 +18,11 @@ function ExtractionsSp() {
             <div className="row">
                 <div className="col"> <Jumbotron /></div>
             </div>
-            
+
             <div className="textlink1">
-                <Link to ="/CZDDS-ConsentForms/extractions" className="textlink2">English </Link>
+                <Link to="/CZDDS-ConsentForms/extractions" className="textlink2">English </Link>
             </div>
-            
+
             <div className="row">
                 <div className="col"> <h1 className="title">CONSENTIMIENTO INFORMATIVO PARA EXTRACCIONES</h1></div>
             </div>
@@ -78,12 +78,13 @@ function ExtractionsSp() {
                     </h3>
                     <ol>
                         <li>
-                            Entiendo que si no se realiza ningún tratamiento, es posible que continúe experimentando síntomas, que podrían incluir dolor y/o infección, deterioro del hueso que rodea mis dientes, cambios en la mordida, malestar en la articulación de la mandíbula y posiblemente la pérdida prematura de otros dientes.
+                            Entiendo que si no se realiza un tratamiento, podría continuar experimentando síntomas que pueden aumentar en gravedad, y la apariencia cosmética de mi diente puede seguir deteriorándose de tal grado que ya no pueda restaurarse y se requiera extracción.
                         </li>
                     </ol>
                 </div>
             </div>
             <br />
+
             <div className="row">
                 <div className="col">
                     <h3>TRATAMIENTOS ALTERNATIVOS SI LA EXTRACCIÓN NO ES LA ÚNICA SOLUCIÓN (No se limita a lo siguiente)</h3>
