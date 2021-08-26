@@ -16,7 +16,8 @@ function Content() {
                         <Link to="/CZDDS-ConsentForms/root-canal">Root Canal</Link></li>
                         <li class="list-group-item">
                         <Link to="/CZDDS-ConsentForms/crowns"> Crown</Link></li>
-                        <li class="list-group-item">Bridge</li>
+                        <li class="list-group-item">
+                        <Link to="/CZDDS-ConsentForms/bridge"> Bridge</Link></li>
                         <li class="list-group-item">Denture</li>
                     </ul>
                 </div>
@@ -31,7 +32,8 @@ function Content() {
                         <Link to="/CZDDS-ConsentForms/root-canal-sp">Endodoncia </Link></li>
                         <li class="list-group-item">
                         <Link to="/CZDDS-ConsentForms/crownsSp">Coronas</Link></li>
-                        <li class="list-group-item">Puente</li>
+                        <li class="list-group-item">
+                        <Link to="/CZDDS-ConsentForms/bridgeSp">Puentes</Link></li>
                         <li class="list-group-item">Dentadura</li>
                     </ul>
                 </div>

@@ -12,6 +12,9 @@ import RootCanal from "./pages/root-canal";
 import RootCanalSp from "./pages/root-canalSp";
 import Crowns from "./pages/crowns";
 import CrownsSp from "./pages/crowns-sp";
+import Bridge from "./pages/bridge";
+import BridgeSp from "./pages/bridge-sp";
+
 
 
 function App() {
@@ -27,6 +30,8 @@ function App() {
         <Route exact path="/CZDDS-ConsentForms/root-canal-sp" component={RootCanalSp}/>
         <Route exact path="/CZDDS-ConsentForms/crowns" component={Crowns}/>
         <Route exact path="/CZDDS-ConsentForms/crownsSp" component={CrownsSp}/>
+        <Route exact path="/CZDDS-ConsentForms/bridge" component={Bridge}/>
+        <Route exact path="/CZDDS-ConsentForms/bridgeSp" component={BridgeSp}/>
 
         
 
