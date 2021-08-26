@@ -25,6 +25,10 @@ function Bridge () {
                 <div className="col"> <h1 className="title">INFORMED CONSENT FOR BRIDGES</h1></div>
             </div>
             <br />
+
+            <div className="row">
+                <div className="col"> <h3>FACTS  FOR CONSIDERATION </h3></div>
+            </div>
         
         </div>
     )
