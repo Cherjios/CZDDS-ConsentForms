@@ -8,7 +8,7 @@ import {Link} from "react-router-dom"
 function BridgeSp (){
     return(
         
-
+        <h1>Puentes</h1>
 
     )
 }
