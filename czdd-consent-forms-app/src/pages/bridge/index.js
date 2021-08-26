@@ -21,6 +21,10 @@ function Bridge () {
                 <Link to="/CZDDS-ConsentForms/bridgeSp" className="textlink2">Spanish </Link>
             </div>
         
+            <div className="row">
+                <div className="col"> <h1 className="title">INFORMED CONSENT FOR BRIDGES</h1></div>
+            </div>
+            <br />
         
         </div>
     )
