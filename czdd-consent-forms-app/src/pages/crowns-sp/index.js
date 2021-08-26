@@ -2,6 +2,7 @@ import React from "react";
 import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
 import { Link } from "react-router-dom";
+import SPproceets from "../../components/SPproceets";
 
 
 function CrownsSp() {
@@ -102,7 +103,13 @@ function CrownsSp() {
             <br />
 
 
+            <div className="row">
+                <div className="col">
+                    <SPproceets />
 
+                </div>
+            </div>
+        
 
         </div>
     )
