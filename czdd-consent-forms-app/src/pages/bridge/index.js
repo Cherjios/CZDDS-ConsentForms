@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "../../components/Navbar";
 import Jumbotron from "../../components/Jumbotron";
 import { Link } from "react-router-dom"
+import Proceets from "../../components/proceets";
 
 function Bridge() {
 
@@ -97,6 +98,13 @@ function Bridge() {
                 </div>
             </div>
 
+
+            <br />
+            <div className="row">
+                <div className="col">
+                    <Proceets />
+                </div>
+            </div>
 
 
 
