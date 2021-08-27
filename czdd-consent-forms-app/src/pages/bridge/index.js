@@ -78,14 +78,16 @@ function Bridge() {
 
             <div className="row">
                 <div className="col">
-                    <h3>CONSEQUENCES IF NO TREATMENT ADMINISTERED (Not limited to the following)</h3>
+                    <h3>CONSEQUENCES IF NO BRIDGE IS ADMINISTERED (Not limited to the following)</h3>
                     <ol>
                         <li>I understand that if no treatment is performed, I may continue to experience symptoms, which may increase in severity, and the cosmetic appearance of my teeth may continue to deteriorate, sometimes to the extent that they are not restorable and require extraction. </li>
                     </ol>
                 </div>
             </div>
-
             <br />
+
+            
+
 
         </div>
     )

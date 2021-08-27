@@ -88,7 +88,7 @@ function Crowns() {
             <br />
             <div className="row">
                 <div className="col">
-                    <h3>ALTERNATIVE TREATMENTS IF EXTRACTION NOT THE ONLY SOLUTION  (Not limited to the following)</h3>
+                    <h3>ALTERNATIVE TREATMENTS IF CROWNS IS  NOT THE ONLY SOLUTION  (Not limited to the following)</h3>
                     <ol>
                         <li>  I understand that depending on the reason I have a crown placed, alternatives may exist. I have asked my dentist about them and their respective expenses. My questions have been answered to my satisfaction regarding the procedures, their risks, benefits and costs.</li>
                         <li> No guarantee or assurance has been given to me by anyone that the prosed treatment or surgery will cure or improve the condition(s) listed above.</li>
