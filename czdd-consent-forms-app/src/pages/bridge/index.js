@@ -86,7 +86,18 @@ function Bridge() {
             </div>
             <br />
 
-            
+            <div className="row">
+                <div className="col">
+                    <h3>ALTERNATIVE TO BRIDGES  (Not limited to the following)</h3>
+                    <ol>
+                        <li>I understand that depending on the reason I have a Bridge placed, alternatives may exist. I have asked my dentist about them and their respective expenses. My questions have been answered to my satisfaction regarding the procedures, their risks, benefits and costs.</li>
+                        <li>No guarantee or assurance has been given to me by anyone that the prosed treatment or surgery will cure or improve the condition(s) listed above.</li>
+                        <li>By signing this document, I consent to the Bridge preparation and placement as described by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to Bridges treatment with the doctor. I had the opportunity to ask questions, and I understand what has been explained.</li>
+                    </ol>
+                </div>
+            </div>
+
+
 
 
         </div>
