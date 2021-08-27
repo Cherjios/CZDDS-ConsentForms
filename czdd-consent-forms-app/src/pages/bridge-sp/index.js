@@ -9,11 +9,23 @@ function BridgeSp (){
         
         <div className="container">
             <div className="row"> 
-            <div className="col"><Navbar/>
+                <div className="col"><Navbar/></div>
+            </div>
+            <br/>
 
+            <div className="row">
+                <div className="col"> <Jumbotron />
+                </div>
             </div>
 
+            <div className="textlink1">
+                <Link to="/CZDDS-ConsentForms/bridge" className="textlink2">English </Link>
             </div>
+
+
+
+
+
         </div>
 
     )
