@@ -22,6 +22,10 @@ function BridgeSp (){
                 <Link to="/CZDDS-ConsentForms/bridge" className="textlink2">English </Link>
             </div>
 
+            <div className="row">
+                <div className="col"> <h1 className="title">CONSENTIMIENTO INFORMATIVO PARA PUENTES</h1></div>
+            </div>
+            <br />
 
 
 
