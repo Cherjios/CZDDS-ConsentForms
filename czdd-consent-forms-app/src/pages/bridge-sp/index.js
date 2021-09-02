@@ -44,6 +44,20 @@ function BridgeSp() {
                     </ol>
                 </div>
             </div>
+            <br/>
+
+            <div className="row">
+                <div className="col"> <h3>BENEFICIOS DE LOS PUENTES (No limitado a lo siguiente)</h3></div>
+            </div>
+
+            <div className="row">
+                <div className="col">
+                    <ol>
+                        <li>Un puente se usa típicamente para fortalecer un diente dañado por el deterioro, fractura o restauraciones previas. También sirve para proteger un diente que ha tenido un tratamiento de conducto de raíz o mejorar la manera en que sus dientes encajan.  </li>
+                    </ol>
+                </div>
+            </div>
+            <br />
 
 
 
