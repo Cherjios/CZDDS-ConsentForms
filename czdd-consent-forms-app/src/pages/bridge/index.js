@@ -53,6 +53,8 @@ function Bridge() {
             <div className="row">
                 <div className="col">
                     <ol>
+                        <li>
+                            Dental bridges literally bridge the gap created by one or more missing teeth.</li>
                         <li>A Bridge is typically used to strengthen a tooth damaged by decay, fracture or previous restorations. It can also serve to protect a tooth that has had a rood canal treatment or improve the way your other teeth fit together.</li>
                         <li>Bridges will be used for the purpose of improving the appearance of damaged, discolored, misshapen, and misaligned or poorly spaced teeth.</li>
                     </ol>
