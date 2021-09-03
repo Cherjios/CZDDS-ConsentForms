@@ -61,6 +61,10 @@ function BridgeSp() {
             </div>
             <br />
 
+            <div className="row">
+                <div className="col"> <h3>RIESGOS DE LOS PUENTES (No limitado a lo siguiente)</h3></div>
+            </div>
+
 
 
         </div>
