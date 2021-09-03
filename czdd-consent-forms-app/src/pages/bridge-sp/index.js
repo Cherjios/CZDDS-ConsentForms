@@ -64,12 +64,24 @@ function BridgeSp() {
             <div className="row">
                 <div className="col"> <h3>RIESGOS DE LOS PUENTES (No limitado a lo siguiente)</h3></div>
             </div>
+            <div className="row">
+                <div className="col">
+                    <ol>
+
+                        <li> Entiendo que preparar a un diente dañado podría irritar aún más el tejido nervioso (llamado pulpa) en el centro del diente, dejando a mi diente sensible al calor, frío o presión. Dicha sensibilidad en el diente podría requerir tratamiento adicional incluyendo un tratamiento de endodoncia o de conducto de raíz.</li>
+                        <li>Entiendo que al mantener abierta mi boca durante el tratamiento podría dejar mi mandíbula tiesa y dolorida y podría generar dificultad para abrir mi boca ampliamente por varios días. Esto podría ser ocasionalmente una indicación de un problema más profundo. Debo notificar al personal de la oficina si se presenta este u otro problema. </li>
+                        <li>Entiendo que un puente puede alterar la manera en que mis dientes encajan entre si, y hacer que mi mandíbula duela. Esto podría requerir de un ajuste en mi mordida al alterar la superficie de mordida del puente o de los dientes adyacentes. </li>
+                        <li>Entiendo que el borde de un puente esta por lo general cerca de la línea de encías, la cual es un área propensa a irritar las encías, generar infecciones o deterioro. El uso adecuado del cepillo e hilo dental en el hogar, una dieta saludable y limpiezas profesionales regulares son algunas de las medidas preventivas esenciales para ayudar a controlar estos problemas. </li>
+                        <li>Entiendo que podría recibir anestesia local y/u otro medicamento. En raras ocasiones, los pacientes podrían tener una reacción a la anestesia, lo cual podría requerir atención medica de emergencia o ver que reduce su habilidad para tragar. Esto aumenta la probabilidad normal de tragar objetos extraños durante el tratamiento. Raramente por motivo de la inyección, se puede presentar un daño temporal o permanente en el nervio.</li>
+                    </ol>
+                </div>
+                </div>
 
 
 
-        </div>
+            </div>
 
-    )
+            )
 }
 
-export default BridgeSp;
+            export default BridgeSp;
