@@ -15,7 +15,11 @@ function Dentures (){
                 <div className="col"> <Jumbotron />
                 </div>
             </div>
-            <h3>Dentures</h3>
+
+            <div className="textlink1">
+                <Link to="/CZDDS-ConsentForms/denturesSp" className="textlink2">Spanish </Link>
+            </div>
+            
 
         </div>
     )
