@@ -6,8 +6,12 @@ import { Link } from "react-router-dom";
 
 function Dentures (){
     return(
-        <div>
+        <div className="container">
+            <div className="row">
+                <div className="col"><Navbar/></div>
+            </div>
             <h3>Dentures</h3>
+
         </div>
     )
 }
