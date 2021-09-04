@@ -41,6 +41,21 @@ function Dentures() {
             </div>
             <br />
 
+            <div className="row">
+                <div className="col"> <h3>BENEFITS OF DENTURES (Not limited to the following)</h3></div>
+            </div>
+
+            <div className="row">
+                <div className="col">
+                    <ol>
+                       <li>Fabrication of complete/partial dentures is intended to allow you to restore mastication function and esthetics, which will help maintain your natural bite and preserve remaining oral structures. </li>
+                    </ol>
+                </div>
+            </div>
+            <br />
+        
+
+
         </div>
     )
 }
