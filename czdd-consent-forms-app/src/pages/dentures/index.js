@@ -48,12 +48,31 @@ function Dentures() {
             <div className="row">
                 <div className="col">
                     <ol>
-                       <li>Fabrication of complete/partial dentures is intended to allow you to restore mastication function and esthetics, which will help maintain your natural bite and preserve remaining oral structures. </li>
+                        <li>Fabrication of complete/partial dentures is intended to allow you to restore mastication function and esthetics, which will help maintain your natural bite and preserve remaining oral structures. </li>
                     </ol>
                 </div>
             </div>
             <br />
-        
+
+            <div className="row">
+                <div className="col"> <h3>RISKS OF DENTURES (Not limited to the following)</h3></div>
+            </div>
+            <div className="row">
+                <div className="col">
+                    <ol>
+
+                        <li>I understand that following treatment I may experience difficulty with speech for several days or weeks, which will eventually improve.</li>
+                        <li>I understand that I may have trouble masticating (chewing). A certain period of adaptation is necessary before eating will be comfortable.</li>
+                        <li>I understand that dentures/partials may have retention problems that may require use of adhesive.</li>
+                        <li>I understand that mucosal irritation may occur and require adjustments. I understand that I must inform my dentist if soreness is present.</li>
+                        <li>I understand that occasionally folds and creases about the mouth will not be eliminated with complete/partial dentures.</li>
+                        <li>I understand that occasionally the following may occur difficulty swallowing, food under the complete/partial dentures, saliva under the complete/partial dentures, loss of taste sensation, dislodgement of complete/partial dentures on sneezing or drinking water, cheek, lip or tongue biting, gagging. Most of these are rare and can be handle by adaptation to wearing complete/partial dentures.</li>
+
+
+                    </ol>
+                </div>
+            </div>
+            <br />
 
 
         </div>
