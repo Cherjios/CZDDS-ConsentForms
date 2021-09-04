@@ -14,6 +14,8 @@ import Crowns from "./pages/crowns";
 import CrownsSp from "./pages/crowns-sp";
 import Bridge from "./pages/bridge";
 import BridgeSp from "./pages/bridge-sp";
+import Dentures from "./pages/dentures";
+import DenturesSp from "./pages/dentures-sp";
 
 
 
@@ -32,6 +34,8 @@ function App() {
         <Route exact path="/CZDDS-ConsentForms/crownsSp" component={CrownsSp}/>
         <Route exact path="/CZDDS-ConsentForms/bridge" component={Bridge}/>
         <Route exact path="/CZDDS-ConsentForms/bridgeSp" component={BridgeSp}/>
+        <Route exact path="/CZDDS-ConsentForms/dentures" component={Dentures}/>
+        <Route exact path="/CZDDS-ConsentForms/denturesSp" component={DenturesSp}/>
 
         
 
