@@ -10,6 +10,11 @@ function Dentures (){
             <div className="row">
                 <div className="col"><Navbar/></div>
             </div>
+
+            <div className="row">
+                <div className="col"> <Jumbotron />
+                </div>
+            </div>
             <h3>Dentures</h3>
 
         </div>
