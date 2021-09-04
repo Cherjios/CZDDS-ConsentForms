@@ -73,15 +73,26 @@ function BridgeSp() {
                         <li>Entiendo que un puente puede alterar la manera en que mis dientes encajan entre si, y hacer que mi mandíbula duela. Esto podría requerir de un ajuste en mi mordida al alterar la superficie de mordida del puente o de los dientes adyacentes. </li>
                         <li>Entiendo que el borde de un puente esta por lo general cerca de la línea de encías, la cual es un área propensa a irritar las encías, generar infecciones o deterioro. El uso adecuado del cepillo e hilo dental en el hogar, una dieta saludable y limpiezas profesionales regulares son algunas de las medidas preventivas esenciales para ayudar a controlar estos problemas. </li>
                         <li>Entiendo que podría recibir anestesia local y/u otro medicamento. En raras ocasiones, los pacientes podrían tener una reacción a la anestesia, lo cual podría requerir atención medica de emergencia o ver que reduce su habilidad para tragar. Esto aumenta la probabilidad normal de tragar objetos extraños durante el tratamiento. Raramente por motivo de la inyección, se puede presentar un daño temporal o permanente en el nervio.</li>
+                        <li>Entiendo que todos los medicamentos tienen el potencial de riesgos, efectos colaterales o interacciones de fármacos. Por lo tanto, es crítico que informe a mi dentista de todos los medicamentos que estoy tomando actualmente. </li>
                     </ol>
                 </div>
-                </div>
-
-
-
             </div>
 
-            )
+            <div className="row">
+                <div className="col">
+                    <h3> CONSECUENCIAS SI NO SE ADMINISTRA EL TRATAMIENTO (No limitado a lo siguiente)</h3>
+                    <ol>
+                        <li>
+                            Entiendo que, si no se realiza un tratamiento, podría continuar experimentando síntomas que pueden aumentar en gravedad, y la apariencia cosmética de mi diente puede seguir deteriorándose de tal grado que ya no pueda restaurarse y se requiera extracción.
+                        </li>
+                    </ol>
+                </div>
+            </div>
+            <br />
+
+        </div>
+
+    )
 }
 
-            export default BridgeSp;
+export default BridgeSp;
