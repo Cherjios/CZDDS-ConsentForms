@@ -22,8 +22,11 @@ function DenturesSp (){
                 <div className="col">
                     <h1 className="title"> CONSENTIMIENTO INFORMATIVO PARA DENTADURAS COMPLETAS/PARCIALES</h1>
                 </div>
-            <br/>
+            </div>
+            <br />
 
+            <div className="row">
+                <div className="col"> <h3>CONOCIMIENTO DEL PACIENTE </h3></div>
             </div>
 
         </div>
