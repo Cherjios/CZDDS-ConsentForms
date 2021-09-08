@@ -99,11 +99,12 @@ function DenturesSp() {
             </div>
             <br />
 
+            <div className="row">
+                <div className="col">
+                    <SPproceets />
 
-
-
-
-
+                </div>
+            </div>
 
         </div>
     )
