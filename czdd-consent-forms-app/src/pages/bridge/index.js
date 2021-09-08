@@ -100,7 +100,6 @@ function Bridge() {
                 </div>
             </div>
 
-
             <br />
             <div className="row">
                 <div className="col">

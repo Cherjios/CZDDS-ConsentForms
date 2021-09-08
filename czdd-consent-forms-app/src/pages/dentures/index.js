@@ -78,6 +78,19 @@ function Dentures() {
                         <li>I understand that if I do not have denture/partial treatment, my supporting ridge and oral structures may change and that I may have difficulty masticating. Any remaining teeth may shift and make it impossible for treatment later. </li>
                     </ol>
                 </div>
+            </div>
+
+            <br />
+            <div className="row">
+                <div className="col">
+                    <h3> ALTERNATIVE TO DENTURES (Not limited to the following)</h3>
+                    <ol>
+                        <li>
+                            I understand that depending on my diagnosis, alternatives to complete/partial dentures treatment may exist which involves other disciplines in dentistry. Fixed partial denture or fixed bridges or implants are the most common alternative treatment. It may require replacing the missing teeth with a removable or fixed bridge or an artificial tooth called an implant. I have asked my dentist about the alternatives and associated expenses.  My questions have been answered to my satisfaction regarding the procedures, their risks, benefits, and cost.
+                        </li>
+                    </ol>
+
+                </div>
 
             </div>
 
