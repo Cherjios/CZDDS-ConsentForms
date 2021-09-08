@@ -73,7 +73,7 @@ function Dentures() {
 
             <div className="row">
                 <div className="col">
-                    <h3>CONSEQUENCES IF NO BRIDGE IS ADMINISTERED (Not limited to the following) </h3>
+                    <h3>CONSEQUENCES IF NO TREATMENT IS ADMINISTERED (Not limited to the following) </h3>
                     <ol>
                         <li>I understand that if I do not have denture/partial treatment, my supporting ridge and oral structures may change and that I may have difficulty masticating. Any remaining teeth may shift and make it impossible for treatment later. </li>
                     </ol>
