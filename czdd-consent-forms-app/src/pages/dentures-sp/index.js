@@ -85,6 +85,20 @@ function DenturesSp() {
             </div>
             <br />
 
+            <div className="row">
+                <div className="col">
+                    <h3>TRATAMIENTOS ALTERNATIVOS PARA LAS DENTADURAS (No se limita a lo siguiente)</h3>
+                    <ol>
+
+                        <li>Entiendo que según mi diagnóstico, podrían existir alternativas a dentaduras completas/parciales que podrían involucrar otras disciplinas en odontología. Dentaduras parciales fijas, puentes fijos o implantes son las alternativas de tratamiento más comunes. Podrían requerir el reemplazo de los dientes faltantes con un puente fijo o removible, un diente artificial llamado implante. He preguntado a mi dentista sobre alternativas y gastos asociados. Mis preguntas fueron respondidas a mi satisfacción sobre los procedimientos, sus riesgos, beneficios y costos.</li>
+                        <li>Nadie me otorgó garantía ni seguridad de que el tratamiento o cirugía propuesta curarán la(s) condición(es) previamente listada(s) arriba.</li>
+                        <li>Al firmar este documento, doy consentimiento a las dentaduras completas/parciales describió previamente el doctor, Cesar E. Zamora Pérez D.D.S.  Atestiguo que he discutido los riesgos, beneficios, consecuencias y alternativas del tratamiento de Corona con el doctor. He tenido la oportunidad de hacer preguntas y entiendo lo que fue explicado</li>
+                    </ol>
+
+                </div>
+            </div>
+            <br />
+
 
 
 
