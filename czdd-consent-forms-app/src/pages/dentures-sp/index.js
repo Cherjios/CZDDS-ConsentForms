@@ -11,6 +11,11 @@ function DenturesSp (){
             <div className="row">
                 <div className="col"><Navbar /></div>
             </div>
+            <br/>
+
+            <div className="row">
+                <div className="col"><Jumbotron /></div>
+            </div>
 
         </div>
     )
