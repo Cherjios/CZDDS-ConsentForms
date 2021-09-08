@@ -67,7 +67,7 @@ function Dentures() {
                         <li>I understand that mucosal irritation may occur and require adjustments. I understand that I must inform my dentist if soreness is present.</li>
                         <li>I understand that occasionally folds and creases about the mouth will not be eliminated with complete/partial dentures.</li>
                         <li>I understand that occasionally the following may occur difficulty swallowing, food under the complete/partial dentures, saliva under the complete/partial dentures, loss of taste sensation, dislodgement of complete/partial dentures on sneezing or drinking water, cheek, lip or tongue biting, gagging. Most of these are rare and can be handle by adaptation to wearing complete/partial dentures.</li>
-
+                        <li>I understand that if I do not have denture/partial treatment, my supporting ridge and oral structures may change and that I may have difficulty masticating. Any remaining teeth may shift and make it impossible for treatment later. </li>
 
                     </ol>
                 </div>
