@@ -14,7 +14,16 @@ function DenturesSp (){
             <br/>
 
             <div className="row">
-                <div className="col"><Jumbotron /></div>
+                <div className="col"><Jumbotron />
+                </div>
+            </div>
+
+            <div className="row">
+                <div className="col">
+                    <h1 className="title"> CONSENTIMIENTO INFORMATIVO PARA DENTADURAS COMPLETAS/PARCIALES</h1>
+                </div>
+            <br/>
+
             </div>
 
         </div>
