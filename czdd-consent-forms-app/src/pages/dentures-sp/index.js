@@ -60,18 +60,30 @@ function DenturesSp() {
             <div className="row">
                 <div className="col">
                     <ol>
-                        	<li>Entiendo que después el tratamiento podría experimentar dificultad para hablar por varios días o semanas, lo cual eventualmente mejorará.</li>
-                        	<li>Entiendo que podría experimentar dificultad para masticar. Se necesita un cierto periodo de adaptación antes que al comer sea cómodo.</li>
-                        	<li>Entiendo que las dentaduras completas/parciales podrían tener problemas de retención que pueden necesitar el uso de adhesivos.</li>
-                        	<li>Entiendo que podría ocurrir irritación mucosa y requerir ajustes. Entiendo que debo de informar a mi dentista si se presenta dolor.</li>
-                        	<li>Entiendo que ocasionalmente no se eliminarán totalmente dobleces y arrugas alrededor de la boca con las dentaduras completas/parciales.</li>
-                        	<li>Entiendo que ocasionalmente podría ocurrir lo siguiente: dificultad para tragar, alimentos bajo de las dentaduras completas/parciales, saliva debajo de las dentaduras completas/parciales, pérdida de la sensación de sabor, dislocación de la dentadura completa/parcial al estornudo o beber agua, mordida de mejillas, labios o lengua y/o atragantamiento. La mayoría de estos son raros y pueden manejarse con adaptación al uso de dentaduras completas/parciales.</li>
+                        <li>Entiendo que después el tratamiento podría experimentar dificultad para hablar por varios días o semanas, lo cual eventualmente mejorará.</li>
+                        <li>Entiendo que podría experimentar dificultad para masticar. Se necesita un cierto periodo de adaptación antes que al comer sea cómodo.</li>
+                        <li>Entiendo que las dentaduras completas/parciales podrían tener problemas de retención que pueden necesitar el uso de adhesivos.</li>
+                        <li>Entiendo que podría ocurrir irritación mucosa y requerir ajustes. Entiendo que debo de informar a mi dentista si se presenta dolor.</li>
+                        <li>Entiendo que ocasionalmente no se eliminarán totalmente dobleces y arrugas alrededor de la boca con las dentaduras completas/parciales.</li>
+                        <li>Entiendo que ocasionalmente podría ocurrir lo siguiente: dificultad para tragar, alimentos bajo de las dentaduras completas/parciales, saliva debajo de las dentaduras completas/parciales, pérdida de la sensación de sabor, dislocación de la dentadura completa/parcial al estornudo o beber agua, mordida de mejillas, labios o lengua y/o atragantamiento. La mayoría de estos son raros y pueden manejarse con adaptación al uso de dentaduras completas/parciales.</li>
 
                     </ol>
                 </div>
             </div>
             <br />
 
+
+            <div className="row">
+                <div className="col">
+                    <h3>
+                        CONSECUENCIAS SI NO SE ADMINISTRA EL TRATAMIENTO (No limitado a lo siguiente)
+                    </h3>
+                    <ol>
+                        <li> Entiendo que si no recibo dentaduras/tratamiento parcial, mi borde de soporte y estructuras orales podrían cambiar y podría tener dificultad al masticar. Cualquier diente remanente podría moverse y hacer imposible aplicar un tratamiento más tarde.</li>
+                    </ol>
+                </div>
+            </div>
+            <br />
 
 
 
