@@ -89,10 +89,16 @@ function Dentures() {
                         <li>No guarantee or assurance has been given to me by anyone that the prosed treatment or surgery will cure or improve the condition(s) listed above. </li>
                         <li>By signing this document, I consent to complete/partial dentures as described by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to complete/partial dentures with the doctor. I had the opportunity to ask questions, and I understand what has been explained. </li>
                     </ol>
-
                 </div>
-
             </div>
+
+            <br/>
+
+        <div className="row">
+            <div className="col">
+                <Proceets />
+            </div>
+        </div>
 
 
         </div>
