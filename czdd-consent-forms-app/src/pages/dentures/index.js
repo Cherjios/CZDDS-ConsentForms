@@ -85,9 +85,9 @@ function Dentures() {
                 <div className="col">
                     <h3> ALTERNATIVE TO DENTURES (Not limited to the following)</h3>
                     <ol>
-                        <li>
-                            I understand that depending on my diagnosis, alternatives to complete/partial dentures treatment may exist which involves other disciplines in dentistry. Fixed partial denture or fixed bridges or implants are the most common alternative treatment. It may require replacing the missing teeth with a removable or fixed bridge or an artificial tooth called an implant. I have asked my dentist about the alternatives and associated expenses.  My questions have been answered to my satisfaction regarding the procedures, their risks, benefits, and cost.
-                        </li>
+                        <li>I understand that depending on my diagnosis, alternatives to complete/partial dentures treatment may exist which involves other disciplines in dentistry. Fixed partial denture or fixed bridges or implants are the most common alternative treatment. It may require replacing the missing teeth with a removable or fixed bridge or an artificial tooth called an implant. I have asked my dentist about the alternatives and associated expenses.  My questions have been answered to my satisfaction regarding the procedures, their risks, benefits, and cost.</li>
+                        <li>No guarantee or assurance has been given to me by anyone that the prosed treatment or surgery will cure or improve the condition(s) listed above. </li>
+                        
                     </ol>
 
                 </div>
