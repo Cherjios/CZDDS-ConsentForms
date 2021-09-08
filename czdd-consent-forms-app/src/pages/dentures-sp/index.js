@@ -7,8 +7,11 @@ import SPproceets from "../../components/SPproceets";
 function DenturesSp (){
     return(
 
-        <div>
-            <h1>Dentaduras</h1>
+        <div className="container">
+            <div className="row">
+                <div className="col"><Navbar /></div>
+            </div>
+
         </div>
     )
 }
