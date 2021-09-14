@@ -14,8 +14,14 @@ function Whitening(){
 
             <div className="row"> 
                 <div className="col"> <Jumbotron/></div>
-
             </div>
+
+            <div className="textlink1">
+                <Link to="/CZDSS-ConsentForms/whiteningSp" className="textlink2">Spanish </Link>
+            </div>
+
+
+
         </div>
     )
 }
