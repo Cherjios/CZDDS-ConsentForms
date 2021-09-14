@@ -16,6 +16,8 @@ import Bridge from "./pages/bridge";
 import BridgeSp from "./pages/bridge-sp";
 import Dentures from "./pages/dentures";
 import DenturesSp from "./pages/dentures-sp";
+import Whitening from "./pages/whitening";
+import WhiteningSp from "./pages/whiteningSp";
 
 
 
@@ -36,7 +38,8 @@ function App() {
         <Route exact path="/CZDDS-ConsentForms/bridgeSp" component={BridgeSp}/>
         <Route exact path="/CZDDS-ConsentForms/dentures" component={Dentures}/>
         <Route exact path="/CZDDS-ConsentForms/denturesSp" component={DenturesSp}/>
-
+        <Route exact path="/CZDSS-ConsentForms/whitening" component={Whitening}/>
+        <Route exact path="/CZDSS-ConsentForms/whiteningSp" component={WhiteningSp}/>
         
 
         
