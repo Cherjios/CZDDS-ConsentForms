@@ -1,9 +1,16 @@
 import React from "react";
+import Navbar from "../../components/Navbar";
+import Jumbotron from "../../components/Jumbotron";
+import {Link} from "react-router-dom";
+import Proceets from "../../components/proceets";
 
 function Whitening(){
     return (
-        <div>
-            <h1> Whitening </h1>
+        <div className="contianer">
+            <div className="row">
+                <div className="col"> <Navbar/></div>
+
+            </div>
         </div>
     )
 }
