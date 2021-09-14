@@ -39,8 +39,41 @@ function Whitening() {
                     </ol>
                 </div>
             </div>
+            <br />
 
+            <div className="row">
+                <div className="col"> <h3>YOUR RESPONSIBILITIES </h3></div>
+            </div>
 
+            <div className="row">
+                <div className="col">
+                    <ol>
+                        <li>Take-home whitening will only be effective if you conscientiously wear the tray for the prescribed number of hours per day.</li>
+                        <li>If you experience any severe discomfort or other problems, stop bleaching immediately and contact us.</li>
+
+                    </ol>
+                </div>
+            </div>
+            <br />
+
+            <div className="row">
+                <div className="col"> <h3>RISKS OF TEETH WHITENING (Not limited to the following) </h3></div>
+            </div>
+
+            <div className="row">
+                <div className="col">
+                    <ol>
+                        <li>I understand that during the first 24 hours following whitening, some patients experience transient sensitivity. This sensitivity is usually mild if my teeth are not normally sensitive. It may be necessary to reduce the number or hours I wear the bleaching tray or stop using it for a short time to resolve the sensitivity.</li>
+                        <li>However, I understand that if my teeth are normally sensitive, whitening may make my teeth more sensitive for an extended period of time. Under these circumstances, I may choose to delay the whitening process until we are able to complete desensitization procedures.</li>
+                        <li>I understand that if my teeth are sensitive after whitening, a mild analgesic such as Tylenol or Advil will usually be effective in making me feel more comfortable until my teeth return to normal.</li>
+                        <li>I understand that gum irritation can result from a small amount of solution leaking under the bleaching trays. A burning sensation on my gums may also occur. This will resolve by itself in a few hours or couple of days.</li>
+                        <li>I understand that irritation can result from using the tray for too many hours when I first start whitening. It may be necessary to reduce the number of hours I wear the tray or stop using it for a short time to resolve these gum problems.</li>
+                        <li>I understand that tooth colored fillings will not white. If the filling matches my current color, bleaching will result in mismatched shades with my natural teeth and the filling may have to be replaced to match the bleached shade.</li>
+
+                    </ol>
+                </div>
+            </div>
+            <br />
 
 
 
