@@ -21,6 +21,10 @@ function Whitening(){
             </div>
 
 
+            <div className="row">
+                <div className="col"> <h1 className="title">INFORMED CONSENT FOR WHITENING</h1></div>
+            </div>
+            <br />
 
         </div>
     )
