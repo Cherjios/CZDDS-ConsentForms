@@ -69,12 +69,27 @@ function Whitening() {
                         <li>I understand that gum irritation can result from a small amount of solution leaking under the bleaching trays. A burning sensation on my gums may also occur. This will resolve by itself in a few hours or couple of days.</li>
                         <li>I understand that irritation can result from using the tray for too many hours when I first start whitening. It may be necessary to reduce the number of hours I wear the tray or stop using it for a short time to resolve these gum problems.</li>
                         <li>I understand that tooth colored fillings will not white. If the filling matches my current color, bleaching will result in mismatched shades with my natural teeth and the filling may have to be replaced to match the bleached shade.</li>
-
                     </ol>
                 </div>
             </div>
             <br />
 
+
+            <div className="row">
+                <div className="col"> <h3>COMPLETION OF TREATMENT</h3></div>
+            </div>
+
+            <div className="row">
+                <div className="col">
+                    <ol>
+                        <li>There is no totally reliable way to predict how light your teeth will whiten. Significant whitening may take two to four weeks or longer.</li>
+                        <li>Following completion of whitening, pigments found in food and drinks will re-stain your teeth, commonly called “bleaching relapse”. To help prevent relapse, use daily over-the counter whitening toothpaste. You may also wish to wear your trays once every few months filled with bleaching gel.</li>
+                        <li> No guarantee or assurance has been given to me by anyone that the prosed treatment or surgery will cure or improve the condition(s) listed above. </li>
+                        <li> By signing this document, I consent to teeth whitening as described above by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to teeth whitening with the doctor. I had the opportunity to ask questions, and I understand what has been explained.</li>
+                    </ol>
+                </div>
+            </div>
+            <br />
 
 
         </div>
