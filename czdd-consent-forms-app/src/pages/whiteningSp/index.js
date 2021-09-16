@@ -71,7 +71,7 @@ function WhiteningSp (){
                     
                     <li>Sin embargo, entiendo que si mis dientes son normalmente sensibles, el blanqueamiento puede hacer que mis dientes sean más sensibles durante un período de tiempo prolongado. En estas circunstancias, puedo optar por retrasar el proceso de blanqueamiento hasta que podamos completar los procedimientos de desensibilización.</li>
 
-                    <li>I understand that if my teeth are sensitive after whitening, a mild analgesic such as Tylenol or Advil will usually be effective in making me feel more comfortable until my teeth return to normal.</li>
+                    <li>Entiendo que si mis dientes están sensibles después del blanqueamiento, un analgésico suave como Tylenol o Advil (ibuprofeno) generalmente será efectivo para hacerme sentir más cómodo hasta que mis dientes vuelvan a la normalidad.</li>
                     
                     <li>I understand that gum irritation can result from a small amount of solution leaking under the bleaching trays. A burning sensation on my gums may also occur. This will resolve by itself in a few hours or couple of days.</li>
                     
