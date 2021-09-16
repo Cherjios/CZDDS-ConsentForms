@@ -69,8 +69,8 @@ function WhiteningSp (){
                 <ol>
                     <li>Entiendo que durante las primeras 24 horas posteriores al blanqueamiento, algunos pacientes experimentan una sensibilidad transitoria. Esta sensibilidad suele ser leve si mis dientes no son normalmente sensibles. Puede ser necesario reducir el número de horas que uso la cubeta blanqueadora o dejar de usarla por un tiempo breve para resolver la sensibilidad.</li>
                     
-                    <li>However, I understand that if my teeth are normally sensitive, whitening may make my teeth more sensitive for an extended period of time. Under these circumstances, I may choose to delay the whitening process until we are able to complete desensitization procedures.</li>
-                    
+                    <li>Sin embargo, entiendo que si mis dientes son normalmente sensibles, el blanqueamiento puede hacer que mis dientes sean más sensibles durante un período de tiempo prolongado. En estas circunstancias, puedo optar por retrasar el proceso de blanqueamiento hasta que podamos completar los procedimientos de desensibilización.</li>
+
                     <li>I understand that if my teeth are sensitive after whitening, a mild analgesic such as Tylenol or Advil will usually be effective in making me feel more comfortable until my teeth return to normal.</li>
                     
                     <li>I understand that gum irritation can result from a small amount of solution leaking under the bleaching trays. A burning sensation on my gums may also occur. This will resolve by itself in a few hours or couple of days.</li>
