@@ -68,7 +68,7 @@ function Whitening() {
                         <li>I understand that if my teeth are sensitive after whitening, a mild analgesic such as Tylenol or Advil (Ibuprofen) will usually be effective in making me feel more comfortable until my teeth return to normal.</li>
                         <li>I understand that gum irritation can result from a small amount of solution leaking under the bleaching trays. A burning sensation on my gums may also occur. This will resolve by itself in a few hours or a couple of days.</li>
                         <li>I understand that irritation can result from using the tray for too many hours when I first start whitening. It may be necessary to reduce the number of hours I wear the tray or stop using it for a short time to resolve these gum problems.</li>
-                        <li>I understand that tooth colored fillings will not white. If the filling matches my current color, bleaching will result in mismatched shades with my natural teeth and the filling may have to be replaced to match the bleached shade.</li>
+                        <li>I understand that tooth-colored fillings will not be white. If the filling matches my current color, bleaching will result in mismatched shades with my natural teeth and the filling may have to be replaced to match the bleached shade.</li>
                     </ol>
                 </div>
             </div>

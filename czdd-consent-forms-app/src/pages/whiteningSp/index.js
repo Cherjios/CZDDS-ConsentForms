@@ -73,11 +73,11 @@ function WhiteningSp (){
 
                     <li>Entiendo que si mis dientes están sensibles después del blanqueamiento, un analgésico suave como Tylenol o Advil (ibuprofeno) generalmente será efectivo para hacerme sentir más cómodo hasta que mis dientes vuelvan a la normalidad.</li>
                     
-                    <li>I understand that gum irritation can result from a small amount of solution leaking under the bleaching trays. A burning sensation on my gums may also occur. This will resolve by itself in a few hours or couple of days.</li>
+                    <li>Entiendo que la irritación de las encías puede resultar de una pequeña cantidad de solución que se filtra debajo de las bandejas blanqueadoras. También puede producirse una sensación de ardor en las encías. Esto se resolverá por sí solo en unas pocas horas o un par de días.</li>
+                                            
+                    <li>Entiendo que irritación puede resultar después de usar la bandeja durante demasiadas horas cuando empiezo a blanquear por primera vez. Puede ser necesario reducir la cantidad de horas que uso la bandeja o dejar de usarla por un tiempo breve para resolver estos problemas de las encías.</li>
                     
-                    <li>I understand that irritation can result from using the tray for too many hours when I first start whitening. It may be necessary to reduce the number of hours I wear the tray or stop using it for a short time to resolve these gum problems.</li>
-                    
-                    <li>I understand that tooth colored fillings will not white. If the filling matches my current color, bleaching will result in mismatched shades with my natural teeth and the filling may have to be replaced to match the bleached shade.</li>
+                    <li>Entiendo que los rellenos del color de los dientes no serán blancos. Si el relleno coincide con mi color actual, el blanqueamiento dará como resultado tonos que no coinciden con mis dientes naturales y es posible que el relleno deba reemplazarse para que coincida con el tono blanqueado.</li>
                 </ol>
             </div>
         </div>
