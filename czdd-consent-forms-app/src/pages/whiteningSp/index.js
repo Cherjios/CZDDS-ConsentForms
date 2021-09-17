@@ -85,7 +85,7 @@ function WhiteningSp (){
 
 
         <div className="row">
-            <div className="col"> <h3>COMPLETION OF TREATMENT</h3></div>
+            <div className="col"> <h3>FINALIZACIÓN DEL TRATAMIENTO</h3></div>
         </div>
 
         <div className="row">
