@@ -91,9 +91,9 @@ function WhiteningSp (){
         <div className="row">
             <div className="col">
                 <ol>
-                    <li>There is no totally reliable way to predict how light your teeth will whiten. Significant whitening may take two to four weeks or longer.</li>
-                    <li>Following completion of whitening, pigments found in food and drinks will re-stain your teeth, commonly called “bleaching relapse”. To help prevent relapse, use daily over-the counter whitening toothpaste. You may also wish to wear your trays once every few months filled with bleaching gel.</li>
-                    <li> No guarantee or assurance has been given to me by anyone that the prosed treatment or surgery will cure or improve the condition(s) listed above. </li>
+                    <li>No existe una forma totalmente confiable de predecir qué tan claros se blanquearán sus dientes. Un blanqueamiento significativo puede tardar de dos a cuatro semanas o más.</li>
+                    <li>Una vez finalizado el blanqueamiento, los pigmentos que se encuentran en los alimentos y las bebidas volverán a teñir los dientes, lo que comúnmente se denomina "recaída del blanqueamiento". Para ayudar a prevenir la recaída, use diario una pasta de dientes blanqueadora. También es posible que desee usar sus bandejas una vez cada pocos meses llenas de gel blanqueador.</li>
+                    <li>  No guarantee or assurance has been given to me by anyone that the prosed treatment or surgery will cure or improve the condition(s) listed above. </li>
                     <li> By signing this document, I consent to teeth whitening as described above by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to teeth whitening with the doctor. I had the opportunity to ask questions, and I understand what has been explained.</li>
                 </ol>
             </div>
