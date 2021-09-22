@@ -18,6 +18,9 @@ import Dentures from "./pages/dentures";
 import DenturesSp from "./pages/dentures-sp";
 import Whitening from "./pages/whitening";
 import WhiteningSp from "./pages/whiteningSp";
+import Implant from "./pages/implant";
+import Implantsp from "./pages/implantSp";
+ 
 
 
 
@@ -40,6 +43,8 @@ function App() {
         <Route exact path="/CZDDS-ConsentForms/denturesSp" component={DenturesSp}/>
         <Route exact path="/CZDSS-ConsentForms/whitening" component={Whitening}/>
         <Route exact path="/CZDSS-ConsentForms/whiteningSp" component={WhiteningSp}/>
+        <Route exact path="/CZDSS-ConsentForms/implant" component={Implant}/>
+        <Route exact path="/CZDSS-ConsentForms/implantSp" component={Implantsp}/>
         
 
         
