@@ -3,6 +3,7 @@ import Navbar from "../../components/Navbar";
 import Jumbotron from "../../components/Jumbotron";
 import { Link } from "react-router-dom";
 import Proceets from "../../components/proceets";
+import Footer from "../../components/Footer";
 
 function Whitening() {
     return (
@@ -94,7 +95,7 @@ function Whitening() {
             <div className="row">
                 <div className="col">
                     <Proceets />
-
+                    <Footer />
                 </div>
             </div>
 

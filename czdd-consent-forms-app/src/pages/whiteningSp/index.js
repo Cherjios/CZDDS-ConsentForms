@@ -3,6 +3,7 @@ import Navbar from "../../components/Navbar";
 import Jumbotron from "../../components/Jumbotron";
 import { Link } from "react-router-dom";
 import SPproceets from "../../components/SPproceets";
+import Footer from "../../components/Footer";
 
 
 function WhiteningSp (){
@@ -103,6 +104,7 @@ function WhiteningSp (){
         <div className="row">
             <div className="col">
                 <SPproceets />
+                <Footer />
 
             </div>
         </div>
