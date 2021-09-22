@@ -10,12 +10,7 @@ function Proceets (){
             <br/>
             <h4> Thanks!</h4>
             <br/>
-            <nav class="navbar navbar-light bg-light">
-                <div class="container-fluid">
-                    <span class="navbar-brand mb-0 h1"><Link to ="/CZDDS-ConsentForms/">Home </Link></span>
                 </div>
-            </nav>
-        </div>
     );
 }
 
