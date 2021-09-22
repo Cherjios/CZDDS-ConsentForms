@@ -3,6 +3,7 @@ import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
 import Proceets from "../../components/proceets";
 import { Link } from "react-router-dom";
+import Footer from "../../components/Footer";
 
 
 
@@ -101,6 +102,7 @@ function Crowns() {
             <div className="row">
                 <div className="col">
                     <Proceets />
+                    <Footer />
 
                 </div>
             </div>

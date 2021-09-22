@@ -3,6 +3,7 @@ import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
 import { Link } from "react-router-dom";
 import SPproceets from "../../components/SPproceets";
+import Footer from "../../components/Footer";   
 
 
 function CrownsSp() {
@@ -106,6 +107,7 @@ function CrownsSp() {
             <div className="row">
                 <div className="col">
                     <SPproceets />
+                    <Footer />
 
                 </div>
             </div>
