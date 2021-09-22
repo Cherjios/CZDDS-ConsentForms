@@ -4,6 +4,7 @@ import Navbar from "../../components/Navbar";
 import Jumbotron from "../../components/Jumbotron";
 import SPproceets from "../../components/SPproceets";
 import { Link } from "react-router-dom";
+import Footer from "../../components/Footer";
 
 
 function Deepcleaningsp() {
@@ -84,7 +85,7 @@ function Deepcleaningsp() {
                 <div className="row">
                 <div className="col">
                     <SPproceets />
-
+                    <Footer />
                 </div>
             </div>
 
