@@ -3,6 +3,7 @@ import Navbar from "../../components/Navbar";
 import Jumbotron from "../../components/Jumbotron";
 import Proceets from "../../components/proceets";
 import { Link } from "react-router-dom";
+import Footer from "../../components/Footer";
 
 import "./style.css";
 
@@ -112,6 +113,7 @@ function RootCanal() {
             <div className="row">
                 <div className="col">
                     <Proceets />
+                    <Footer />
 
                 </div>
             </div>

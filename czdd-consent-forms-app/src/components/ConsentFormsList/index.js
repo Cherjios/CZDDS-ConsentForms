@@ -38,7 +38,7 @@ function Content() {
                         <li class="list-group-item">
                         <Link to="/CZDDS-ConsentForms/bridgeSp">Puentes</Link></li>
                         <li class="list-group-item">
-                        <Link to="/CZDDS-ConsentForms/denturesSp">Dentadura</Link></li>
+                        <Link to="/CZDDS-ConsentForms/denturesSp">Dentaduras</Link></li>
                         <li class="list-group-item">
                         <Link to="/CZDSS-ConsentForms/whiteningSp">Blanqueamineto</Link></li>
                         
