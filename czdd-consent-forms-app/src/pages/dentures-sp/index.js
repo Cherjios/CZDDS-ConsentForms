@@ -3,6 +3,7 @@ import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
 import { Llink } from "react-router-dom"
 import SPproceets from "../../components/SPproceets";
+import Footer from "../../components/Footer";
 
 function DenturesSp() {
     return (
@@ -102,6 +103,7 @@ function DenturesSp() {
             <div className="row">
                 <div className="col">
                     <SPproceets />
+                    <Footer />
 
                 </div>
             </div>
