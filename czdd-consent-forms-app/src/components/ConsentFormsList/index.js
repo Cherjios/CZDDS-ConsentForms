@@ -22,6 +22,8 @@ function Content() {
                         <Link to="/CZDDS-ConsentForms/dentures">Dentures</Link></li>
                         <li class="list-group-item">
                         <Link to="/CZDSS-ConsentForms/whitening">Whitening</Link></li>
+                        <li class="list-group-item">
+                        <Link to="/CZDSS-ConsentForms/implant">Implants</Link></li>
                     </ul>
                 </div>
                 <div className="col">
@@ -41,6 +43,8 @@ function Content() {
                         <Link to="/CZDDS-ConsentForms/denturesSp">Dentaduras</Link></li>
                         <li class="list-group-item">
                         <Link to="/CZDSS-ConsentForms/whiteningSp">Blanqueamineto</Link></li>
+                        <li class="list-group-item">
+                        <Link to="/CZDSS-ConsentForms/implantSp">Implantes</Link></li>
                         
                     </ul>
                 </div>
