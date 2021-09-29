@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/CZDDS-ConsentForms-React/static/css/main.64b41e67.chunk.css",
-    "main.js": "/CZDDS-ConsentForms-React/static/js/main.6eb0e385.chunk.js",
-    "main.js.map": "/CZDDS-ConsentForms-React/static/js/main.6eb0e385.chunk.js.map",
-    "runtime-main.js": "/CZDDS-ConsentForms-React/static/js/runtime-main.74836ee7.js",
-    "runtime-main.js.map": "/CZDDS-ConsentForms-React/static/js/runtime-main.74836ee7.js.map",
-    "static/js/2.73f4b5fe.chunk.js": "/CZDDS-ConsentForms-React/static/js/2.73f4b5fe.chunk.js",
-    "static/js/2.73f4b5fe.chunk.js.map": "/CZDDS-ConsentForms-React/static/js/2.73f4b5fe.chunk.js.map",
-    "static/js/3.2915103e.chunk.js": "/CZDDS-ConsentForms-React/static/js/3.2915103e.chunk.js",
-    "static/js/3.2915103e.chunk.js.map": "/CZDDS-ConsentForms-React/static/js/3.2915103e.chunk.js.map",
-    "index.html": "/CZDDS-ConsentForms-React/index.html",
-    "static/css/main.64b41e67.chunk.css.map": "/CZDDS-ConsentForms-React/static/css/main.64b41e67.chunk.css.map",
-    "static/js/2.73f4b5fe.chunk.js.LICENSE.txt": "/CZDDS-ConsentForms-React/static/js/2.73f4b5fe.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/CZDDS-ConsentForms-React/static/media/logo.6ce24c58.svg"
+    "main.css": "/CZDDS-ConsentForms/static/css/main.64b41e67.chunk.css",
+    "main.js": "/CZDDS-ConsentForms/static/js/main.6eb0e385.chunk.js",
+    "main.js.map": "/CZDDS-ConsentForms/static/js/main.6eb0e385.chunk.js.map",
+    "runtime-main.js": "/CZDDS-ConsentForms/static/js/runtime-main.421045d9.js",
+    "runtime-main.js.map": "/CZDDS-ConsentForms/static/js/runtime-main.421045d9.js.map",
+    "static/js/2.73f4b5fe.chunk.js": "/CZDDS-ConsentForms/static/js/2.73f4b5fe.chunk.js",
+    "static/js/2.73f4b5fe.chunk.js.map": "/CZDDS-ConsentForms/static/js/2.73f4b5fe.chunk.js.map",
+    "static/js/3.2915103e.chunk.js": "/CZDDS-ConsentForms/static/js/3.2915103e.chunk.js",
+    "static/js/3.2915103e.chunk.js.map": "/CZDDS-ConsentForms/static/js/3.2915103e.chunk.js.map",
+    "index.html": "/CZDDS-ConsentForms/index.html",
+    "static/css/main.64b41e67.chunk.css.map": "/CZDDS-ConsentForms/static/css/main.64b41e67.chunk.css.map",
+    "static/js/2.73f4b5fe.chunk.js.LICENSE.txt": "/CZDDS-ConsentForms/static/js/2.73f4b5fe.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CZDDS-ConsentForms/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.74836ee7.js",
+    "static/js/runtime-main.421045d9.js",
     "static/js/2.73f4b5fe.chunk.js",
     "static/css/main.64b41e67.chunk.css",
     "static/js/main.6eb0e385.chunk.js"
