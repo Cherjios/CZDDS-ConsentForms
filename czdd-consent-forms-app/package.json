@@ -1,6 +1,6 @@
 {
   "name": "czdd-consent-forms-app",
-  "homepage": "https://cherjios.github.io/CZDDS-ConsentForms-React",
+  "homepage": "https://cherjios.github.io/CZDDS-ConsentForms",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
