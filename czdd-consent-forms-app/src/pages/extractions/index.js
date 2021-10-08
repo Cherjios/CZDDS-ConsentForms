@@ -37,10 +37,10 @@ function Extractions() {
             <div className="row">
                 <div className="col">
                     <ol>
-                        <li>An extraction involves removing one or more teeth. Depending on their condition, this may require sectioning the teeth or trimming the gum or bone tissue. In any unexpected difficulties occur during treatment; I may refer you to an oral surgeon, who is a specialist in dental surgery.</li>
+                        <li>An extraction involves removing one or more teeth. Depending on their condition, this may require sectioning the teeth or trimming the gum or bone tissue. If any unexpected difficulties occur during treatment; I may refer you to an oral surgeon, who is a specialist in dental surgery.</li>
                         <li>Once the tooth is extracted, you will have a space that you may want to fill with a fixed or removable appliance.</li>
-                        <li>Replacement of missing teeth may be necessary to prevent the drifting of adjacent and/or opposing teeth to maintain function, or for cosmetic appearances. The options of a removable appliance will be explained to you.</li>
-                        <li>As in all surgical procedures, extractions may no be perfectly safe. Since each person is unique and responds differently to surgery, the healing process may vary; no guarantees can be made. </li>
+                        <li>Replacement of missing teeth may be necessary to prevent the drifting of adjacent and/or opposing teeth to maintain function, or for cosmetic appearances. The options for a removable appliance will be explained to you.</li>
+                        <li>As in all surgical procedures, extractions may not be perfectly safe. Since each person is unique and responds differently to surgery, the healing process may vary; no guarantees can be made. </li>
                     </ol>
                 </div>
             </div>
