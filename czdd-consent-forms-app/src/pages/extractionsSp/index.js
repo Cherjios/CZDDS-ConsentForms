@@ -92,7 +92,7 @@ function ExtractionsSp() {
                     <ol>
                         <li>Entiendo que dependiendo de mi diagnóstico, pueden existir alternativas a la extracción que involucra otras disciplinas de la odontología. Le pregunté a mi dentista sobre ellos y sus respectivos costos. Mis preguntas han sido respondidas a mi satisfacción sobre los procedimientos, sus riesgos, beneficios y costos.</li>
                         <li>Nadie me ha dado ninguna garantía o seguridad de que el tratamiento o la cirugía propuesta curará o mejorarán las condiciones mencionadas anteriormente.</li>
-                        <li>Al firmar este documento, doy mi consentimiento para la extracción descrita por el Dr. Cesar E. Zamora Perez. Doy fe de que he hablado con el médico sobre los riesgos, los beneficios, las consecuencias y las alternativas al tratamiento de extracción. Tuve la oportunidad de hacer preguntas y comprendo lo que se ha explicado.</li>
+                        <li>Al firmar este documento, <b> doy mi consentimiento para la extracción </b>descrita por el Dr. Cesar E. Zamora Perez. Doy fe de que he hablado con el médico sobre los riesgos, los beneficios, las consecuencias y las alternativas al tratamiento de extracción. Tuve la oportunidad de hacer preguntas y comprendo lo que se ha explicado.</li>
                     </ol>
 
                 </div>

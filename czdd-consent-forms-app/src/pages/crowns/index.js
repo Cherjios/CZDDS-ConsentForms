@@ -93,7 +93,7 @@ function Crowns() {
                     <ol>
                         <li>  I understand that depending on the reason I have a crown placed, alternatives may exist. I have asked my dentist about them and their respective expenses. My questions have been answered to my satisfaction regarding the procedures, their risks, benefits and costs.</li>
                         <li> No guarantee or assurance has been given to me by anyone that the prosed treatment or surgery will cure or improve the condition(s) listed above.</li>
-                        <li> By signing this document, I consent to the crown preparation and placement as described above by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to Crowns treatment with the doctor. I had the opportunity to ask questions, and I understand what has been explained.</li>
+                        <li> By signing this document, <b>I consent to the crown preparation and placement </b>as described above by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to Crowns treatment with the doctor. I had the opportunity to ask questions, and I understand what has been explained.</li>
                     </ol>
                 </div>
             </div>

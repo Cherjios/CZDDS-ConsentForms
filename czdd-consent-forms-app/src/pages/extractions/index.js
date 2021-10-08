@@ -95,7 +95,7 @@ function Extractions() {
                     <ol>
                         <li>I understand that depending on my diagnosis, alternatives to extraction may exist which involves other disciplines in dentistry. I asked my dentist about them and their respective costs. My questions have been answered to my satisfaction regarding the procedures, their risks, benefits and cost.</li>
                         <li>No guarantee or assurance has been given to me by anyone that the proposed treatment or surgery will cure or improve the conditions) listed above.</li>
-                        <li>By signing this document, I consent to the crown preparation and placement as described above by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to Crowns treatment with the doctor. I had the opportunity to ask questions, and I understand what has been explained.
+                        <li>By signing this document, <b>I consent to the extraction </b>preparation and placement as described above by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to Crowns treatment with the doctor. I had the opportunity to ask questions, and I understand what has been explained.
                         </li>
                     </ol>
                 </div>

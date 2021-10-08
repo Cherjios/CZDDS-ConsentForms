@@ -96,7 +96,7 @@ function CrownsSp() {
                     <ol>
                        <li> Entiendo la razón por la que se colocará la corona, podrían existir alternativas. He preguntado a mi dentista sobre éstas y sus respectivos costos. Mis preguntas han sido respondidas a mi satisfacción sobre los procedimientos, sus riesgos, beneficios y costos.</li>
                         <li> Nadie me otorgó garantía ni seguridad de que el tratamiento o cirugía propuesta curarán la(s) condición(es) previamente listada(s) arriba.</li>
-                        <li> Al firmar este documento, doy consentimiento para la preparación y colocación de la corona como describió previamente el doctor, Cesar E. Zamora Pérez D.D.S.  Atestiguo que he discutido los riesgos, beneficios, consecuencias y alternativas del tratamiento de Corona con el doctor. He tenido la oportunidad de hacer preguntas y entiendo lo que fue explicado</li>
+                        <li> Al firmar este documento, <b>doy consentimiento para la preparación y colocación de la corona</b> como describió previamente el doctor, Cesar E. Zamora Pérez D.D.S.  Atestiguo que he discutido los riesgos, beneficios, consecuencias y alternativas del tratamiento de Corona con el doctor. He tenido la oportunidad de hacer preguntas y entiendo lo que fue explicado</li>
                     </ol>
 
                 </div>

@@ -77,7 +77,7 @@ function Deepcleaningsp() {
                     <ol>
                     <li> Entiendo que dependiendo de mi diagnóstico, pueden existir alternativas a la enfermedad periodontal que involucra otras disciplinas de la odontología. Le pregunté a mi dentista sobre ellos y sus respectivos costos. Mis preguntas han sido respondidas satisfactoriamente con respecto a los procedimientos, sus riesgos, beneficios y costos. </li>
                          <li> Nadie me ha dado ninguna garantía o seguridad de que el tratamiento o la cirugía prosperados curarán o mejorarán las afecciones enumeradas anteriormente. </li>
-                         <li> Al firmar este documento, doy mi consentimiento para el tratamiento periodontal descrito anteriormente por el médico Cesar E. Zamora Perez D.D.S. Doy fe de que he hablado con el médico sobre los riesgos, los beneficios, las consecuencias y las alternativas al tratamiento periodontal. Tuve la oportunidad de hacer preguntas y comprendo lo que se ha explicado. </li>
+                         <li> Al firmar este documento, <b>doy mi consentimiento para el tratamiento periodontal</b> descrito anteriormente por el médico Cesar E. Zamora Perez D.D.S. Doy fe de que he hablado con el médico sobre los riesgos, los beneficios, las consecuencias y las alternativas al tratamiento periodontal. Tuve la oportunidad de hacer preguntas y comprendo lo que se ha explicado. </li>
                          </ol>
 
                 </div>

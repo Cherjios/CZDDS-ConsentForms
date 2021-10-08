@@ -101,7 +101,7 @@ function RootCanalSp() {
                         <li>Entiendo que si no se realiza ningún tratamiento, es posible que continúe experimentando síntomas, que podrían incluir dolor y / o infección, deterioro del hueso que rodea mis dientes, cambios en la mordida, malestar en la articulación de la mandíbula y posiblemente la pérdida prematura de otros dientes.</li>
                         <li>Nadie me ha dado ninguna garantía o seguridad de que el tratamiento o la cirugía propuesta curarán o mejorarán los sintomas enumeradas anteriormente.
 </li>
-                        <li>Al firmar este documento, doy mi consentimiento para el tratamiento de endodoncia, según lo descrito anteriormente por el médico, Cesar E. Zamora Perez D.D.S. Doy fe de que he hablado con el médico sobre los riesgos, los beneficios, las consecuencias y las alternativas al tratamiento de conducto. Tuve la oportunidad de hacer preguntas y comprendo lo que se ha explicado. </li>
+                        <li>Al firmar este documento, <b>doy mi consentimiento para el tratamiento de endodoncia</b>, según lo descrito anteriormente por el médico, Cesar E. Zamora Perez D.D.S. Doy fe de que he hablado con el médico sobre los riesgos, los beneficios, las consecuencias y las alternativas al tratamiento de conducto. Tuve la oportunidad de hacer preguntas y comprendo lo que se ha explicado. </li>
             </ol>
                 </div>
             </div>
