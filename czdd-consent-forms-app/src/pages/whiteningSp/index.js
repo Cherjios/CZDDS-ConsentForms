@@ -95,7 +95,7 @@ function WhiteningSp (){
                     <li>No existe una forma totalmente confiable de predecir qué tan claros se blanquearán sus dientes. Un blanqueamiento significativo puede tardar de dos a cuatro semanas o más.</li>
                     <li>Una vez finalizado el blanqueamiento, los pigmentos que se encuentran en los alimentos y las bebidas volverán a teñir los dientes, lo que comúnmente se denomina "recaída del blanqueamiento". Para ayudar a prevenir la recaída, use diario una pasta de dientes blanqueadora. También es posible que desee usar sus bandejas una vez cada pocos meses llenas de gel blanqueador.</li>
                     <li>Nadie me ha dado ninguna garantía o seguridad de que el tratamiento o la cirugía propuestos curarán o mejorarán las condiciones enumeradas anteriormente. </li>
-                    <li>Al firmar este documento, doy mi consentimiento para el blanqueamiento dental según lo descrito anteriormente por el médico, Cesar E. Zamora Perez D.D.S. Doy fe de que he hablado con el médico sobre los riesgos, los beneficios, las consecuencias y las alternativas al blanqueamiento dental. Tuve la oportunidad de hacer preguntas y comprendo lo que se ha explicado. </li>
+                    <li>Al firmar este documento, <b>doy mi consentimiento para el blanqueamiento dental </b>según lo descrito anteriormente por el médico, Cesar E. Zamora Perez D.D.S. Doy fe de que he hablado con el médico sobre los riesgos, los beneficios, las consecuencias y las alternativas al blanqueamiento dental. Tuve la oportunidad de hacer preguntas y comprendo lo que se ha explicado. </li>
                 </ol>
             </div>
         </div>

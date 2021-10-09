@@ -93,7 +93,7 @@ function DenturesSp() {
 
                         <li>Entiendo que según mi diagnóstico, podrían existir alternativas a dentaduras completas/parciales que podrían involucrar otras disciplinas en odontología. Dentaduras parciales fijas, puentes fijos o implantes son las alternativas de tratamiento más comunes. Podrían requerir el reemplazo de los dientes faltantes con un puente fijo o removible, un diente artificial llamado implante. He preguntado a mi dentista sobre alternativas y gastos asociados. Mis preguntas fueron respondidas a mi satisfacción sobre los procedimientos, sus riesgos, beneficios y costos.</li>
                         <li>Nadie me otorgó garantía ni seguridad de que el tratamiento o cirugía propuesta curarán la(s) condición(es) previamente listada(s) arriba.</li>
-                        <li>Al firmar este documento, doy consentimiento para las dentaduras completas/parciales que  describió previamente el doctor, Cesar E. Zamora Pérez D.D.S.  Atestiguo que he discutido los riesgos, beneficios, consecuencias y alternativas del tratamiento de dentaduras con el doctor. He tenido la oportunidad de hacer preguntas y entiendo lo que fue explicado</li>
+                        <li>Al firmar este documento, <b>doy consentimiento para las dentaduras completas/parciales </b>que  describió previamente el doctor, Cesar E. Zamora Pérez D.D.S.  Atestiguo que he discutido los riesgos, beneficios, consecuencias y alternativas del tratamiento de dentaduras con el doctor. He tenido la oportunidad de hacer preguntas y entiendo lo que fue explicado</li>
                     </ol>
 
                 </div>

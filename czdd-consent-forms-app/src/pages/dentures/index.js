@@ -88,7 +88,7 @@ function Dentures() {
                     <ol>
                         <li>I understand that depending on my diagnosis, alternatives to complete/partial dentures treatment may exist which involves other disciplines in dentistry. Fixed partial denture or fixed bridges or implants are the most common alternative treatment. It may require replacing the missing teeth with a removable or fixed bridge or an artificial tooth called an implant. I have asked my dentist about the alternatives and associated expenses.  My questions have been answered to my satisfaction regarding the procedures, their risks, benefits, and cost.</li>
                         <li>No guarantee or assurance has been given to me by anyone that the prosed treatment or surgery will cure or improve the condition(s) listed above. </li>
-                        <li>By signing this document, I consent to complete/partial dentures as described by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to complete/partial dentures with the doctor. I had the opportunity to ask questions, and I understand what has been explained. </li>
+                        <li>By signing this document, <b>I consent to complete/partial dentures</b> as described by the doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to complete/partial dentures with the doctor. I had the opportunity to ask questions, and I understand what has been explained. </li>
                     </ol>
                 </div>
             </div>
