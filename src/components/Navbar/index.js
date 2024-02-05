@@ -8,9 +8,9 @@ function Navbar() {
 
         <div>
             {/* As a heading  */}
-            <nav class="navbar navbar-light bg-light">
-                <div class="container-fluid">
-                    <span class="navbar-brand mb-0 h1"><Link to ="/CZDDS-ConsentForms/">Home </Link></span>
+            <nav classname="navbar navbar-light bg-light">
+                <div classname="container-fluid">
+                    <span classname="navbar-brand mb-0 h1 border border-danger-subtle"><Link to ="/CZDDS-ConsentForms/">Home </Link></span>
                 </div>
             </nav>
            
