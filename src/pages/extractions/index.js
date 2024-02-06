@@ -25,8 +25,9 @@ function Extractions() {
             </div>
 
             <div className="textlink1">
-            <Link to ="/CZDDS-ConsentForms/extractions-sp" className="textlink2">Spanish </Link>
+            <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/extractions-sp" className="alink">Español</Link></button>
             </div>
+            <br/>
 
             <div className="row">
                 <div className="col"> <h1 className="title">INFORMED CONSENT FOR EXTRACTION</h1></div>

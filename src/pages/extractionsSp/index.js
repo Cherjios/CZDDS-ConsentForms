@@ -21,8 +21,9 @@ function ExtractionsSp() {
             </div>
 
             <div className="textlink1">
-                <Link to="/CZDDS-ConsentForms/extractions" className="textlink2">English </Link>
+            <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/extractions" className="alink">English </Link></button>
             </div>
+            <br />
 
             <div className="row">
                 <div className="col"> <h1 className="title">CONSENTIMIENTO INFORMATIVO PARA EXTRACCIONES</h1></div>

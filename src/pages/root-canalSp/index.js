@@ -23,7 +23,7 @@ function RootCanalSp() {
             </div>
 
             <div className="textlink1">
-            <Link to ="/CZDDS-ConsentForms/root-canal" className="textlink2">English </Link>
+            <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/root-canal" className="alink">English </Link></button>
             </div>
 
             <br />

@@ -23,7 +23,7 @@ function Deepcleaning() {
             </div>
 
             <div className="textlink1">
-                <Link to="/CZDDS-ConsentForms/deep-cleaning-sp" className="textlink2">Español</Link>
+            <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/deep-cleaning-sp" className="alink">Español </Link></button>
             </div>
 
             <div className="row">

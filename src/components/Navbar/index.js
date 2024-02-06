@@ -1,20 +1,21 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import "./style.css";
 
 
 function Navbar() {
 
     return (
 
+          
+        
         <div>
-            {/* As a heading  */}
-            <nav classname="navbar navbar-light bg-light">
-                <div classname="container-fluid">
-                    <span classname="navbar-brand mb-0 h1 border border-danger-subtle"><Link to ="/CZDDS-ConsentForms/">Home </Link></span>
-                </div>
+            <nav className="navbar navbar-light bg-light">
+                <div className="container-fluid">
+                <button type="button" className="btn btn-outline-primary" fdprocessedid="t7kb4"><Link to ="/" className="alink">Home </Link></button>
+                 </div>
             </nav>
            
-
         </div>
 
 

@@ -27,23 +27,23 @@ export default function App(){
 return(
   <BrowserRouter>
     <Routes>
-      <Route path="/CZDDS-ConsentForms/" element={<Home/>}/>
-      <Route path="/CZDDS-ConsentForms/extractions" element={<Extractions/>} />
-      <Route path="/CZDDS-ConsentForms/extractions-sp" element={<ExtractionsSp/>} />
-      <Route path="/CZDDS-ConsentForms/deep-cleaning" element={<Deepcleaning/>} />
-      <Route path="/CZDDS-ConsentForms/deep-cleaning-sp" element={<Deepcleaningsp/>} />
-      <Route path="/CZDDS-ConsentForms/root-canal" element={<RootCanal/>} />
-      <Route path="/CZDDS-ConsentForms/root-canal-sp" element={<RootCanalSp/>} />
-      <Route path="/CZDDS-ConsentForms/crowns" element={<Crowns/>} />
-      <Route path="/CZDDS-ConsentForms/crownsSp" element={<CrownsSp/>} />
-      <Route path="/CZDDS-ConsentForms/bridge" element={<Bridge/>} />
-      <Route path="/CZDDS-ConsentForms/bridgeSp" element={<BridgeSp/>}  />
-      <Route path="/CZDDS-ConsentForms/dentures" element={<Dentures />} />
-      <Route path="/CZDDS-ConsentForms/denturesSp" element={<DenturesSp />} />
-      <Route path="/CZDSS-ConsentForms/whitening" element={<Whitening />} />
-      <Route path="/CZDSS-ConsentForms/whiteningSp" element={<WhiteningSp />} />
-      <Route path="/CZDSS-ConsentForms/implant" element={<Implant />} />
-      <Route path="/CZDSS-ConsentForms/implantSp" element={<Implantsp />}/>
+      <Route path="/" element={<Home/>}/>
+      <Route path="/extractions" element={<Extractions/>} />
+      <Route path="/extractions-sp" element={<ExtractionsSp/>} />
+      <Route path="/deep-cleaning" element={<Deepcleaning/>} />
+      <Route path="/deep-cleaning-sp" element={<Deepcleaningsp/>} />
+      <Route path="/root-canal" element={<RootCanal/>} />
+      <Route path="/root-canal-sp" element={<RootCanalSp/>} />
+      <Route path="/crowns" element={<Crowns/>} />
+      <Route path="/crownsSp" element={<CrownsSp/>} />
+      <Route path="/bridge" element={<Bridge/>} />
+      <Route path="/bridgeSp" element={<BridgeSp/>}  />
+      <Route path="/dentures" element={<Dentures />} />
+      <Route path="/denturesSp" element={<DenturesSp />} />
+      <Route path="/whitening" element={<Whitening />} />
+      <Route path="/whiteningSp" element={<WhiteningSp />} />
+      <Route path="/implant" element={<Implant />} />
+      <Route path="/implantSp" element={<Implantsp />}/>
 
     </Routes>
   </BrowserRouter>
@@ -60,23 +60,23 @@ function App() {
   return (
     <Routes>
       
-        <Route exact path="/CZDDS-ConsentForms/" element={Home} />
-        <Route exact path="/CZDDS-ConsentForms/extractions" element={Extractions} />
-        <Route exact path="/CZDDS-ConsentForms/extractions-sp" element={ExtractionsSp} />
-        <Route exact path="/CZDDS-ConsentForms/deep-cleaning" element={Deepcleaning}/>
-        <Route exact path="/CZDDS-ConsentForms/deep-cleaning-sp" element={Deepcleaningsp}/>
-        <Route exact path="/CZDDS-ConsentForms/root-canal" element={RootCanal}/>
-        <Route exact path="/CZDDS-ConsentForms/root-canal-sp" element={RootCanalSp}/>
-        <Route exact path="/CZDDS-ConsentForms/crowns" element={Crowns}/>
-        <Route exact path="/CZDDS-ConsentForms/crownsSp" element={CrownsSp}/>
-        <Route exact path="/CZDDS-ConsentForms/bridge" element={Bridge}/>
-        <Route exact path="/CZDDS-ConsentForms/bridgeSp" element={BridgeSp}/>
-        <Route exact path="/CZDDS-ConsentForms/dentures" element={Dentures}/>
-        <Route exact path="/CZDDS-ConsentForms/denturesSp" element={DenturesSp}/>
-        <Route exact path="/CZDSS-ConsentForms/whitening" element={Whitening}/>
-        <Route exact path="/CZDSS-ConsentForms/whiteningSp" element={WhiteningSp}/>
-        <Route exact path="/CZDSS-ConsentForms/implant" element={Implant}/>
-        <Route exact path="/CZDSS-ConsentForms/implantSp" element={Implantsp}/>
+        <Route exact path="/" element={Home} />
+        <Route exact path="/extractions" element={Extractions} />
+        <Route exact path="/extractions-sp" element={ExtractionsSp} />
+        <Route exact path="/deep-cleaning" element={Deepcleaning}/>
+        <Route exact path="/deep-cleaning-sp" element={Deepcleaningsp}/>
+        <Route exact path="/root-canal" element={RootCanal}/>
+        <Route exact path="/root-canal-sp" element={RootCanalSp}/>
+        <Route exact path="/crowns" element={Crowns}/>
+        <Route exact path="/crownsSp" element={CrownsSp}/>
+        <Route exact path="/bridge" element={Bridge}/>
+        <Route exact path="/bridgeSp" element={BridgeSp}/>
+        <Route exact path="/dentures" element={Dentures}/>
+        <Route exact path="/denturesSp" element={DenturesSp}/>
+        <Route exact path="//whitening" element={Whitening}/>
+        <Route exact path="//whiteningSp" element={WhiteningSp}/>
+        <Route exact path="//implant" element={Implant}/>
+        <Route exact path="//implantSp" element={Implantsp}/>
   
         
     </Routes>
