@@ -19,7 +19,7 @@ function Implant (){
             </div>
 
             <div className="textlink1">
-            <Link to ="/CZDSS-ConsentForms/implantSp" className="textlink2">Spanish </Link>
+            <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/implantSp" className="alink">Español</Link></button>
             </div>
             
             <br />

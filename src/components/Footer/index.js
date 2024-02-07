@@ -10,7 +10,7 @@ function Footer() {
             {/* As a Footer  */}
             <nav className="navbar navbar-light bg-light">
                 <div className="container-fluid">
-                    <span className="navbar-brand mb-0 h1"><Link to ="/CZDDS-ConsentForms/">Home </Link></span>
+                <button type="button" className="btn btn-outline-primary" fdprocessedid="t7kb4"><Link to ="/" className="alink">Home </Link></button>
                 </div>
             </nav>
            

@@ -21,9 +21,9 @@ function WhiteningSp (){
         </div>
 
         <div className="textlink1">
-            <Link to="/CZDSS-ConsentForms/whitening" className="textlink2">English </Link>
+            <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/whitening" className="alink">English </Link></button>
         </div>
-
+        <br />
 
         <div className="row">
             <div className="col"> <h1 className="title">CONSENTIMIENTO INFORMATIVO PARA BLANQUEAMIENTO</h1></div>

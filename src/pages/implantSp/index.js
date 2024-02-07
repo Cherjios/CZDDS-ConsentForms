@@ -19,8 +19,9 @@ function Implantsp (){
             </div>
 
             <div className="textlink1">
-                <Link to="/CZDSS-ConsentForms/implant" className="textlink2">English </Link>
+            <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/implant" className="alink">English </Link></button>
             </div>
+            <br/>
 
             <div className="row">
                 <div className="col"> <h1 className="title">CONSENTIMIENTO INFORMATIVO PARA IMPLANTES</h1></div>
