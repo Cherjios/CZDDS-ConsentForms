@@ -1,7 +1,7 @@
 import React from "react";
 import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
-import { Llink } from "react-router-dom"
+import { Link } from "react-router-dom";
 import SPproceets from "../../components/SPproceets";
 import Footer from "../../components/Footer";
 
@@ -18,6 +18,11 @@ function DenturesSp() {
                 <div className="col"><Jumbotron />
                 </div>
             </div>
+
+            <div className="textlink1">
+<button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/dentures" className="alink">English </Link></button>
+</div>
+<br />
 
             <div className="row">
                 <div className="col">

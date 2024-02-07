@@ -27,6 +27,7 @@ function Extractions() {
             <div className="textlink1">
             <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/extractions-sp" className="alink">Español</Link></button>
             </div>
+            
             <br/>
 
             <div className="row">

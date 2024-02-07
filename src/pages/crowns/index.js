@@ -21,8 +21,9 @@ function Crowns() {
             </div>
 
             <div className="textlink1">
-                <Link to="/CZDDS-ConsentForms/crownsSp" className="textlink2">Spanish </Link>
+            <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/crownsSp" className="alink">Español </Link></button>
             </div>
+            <br />
 
             <div className="row">
                 <div className="col"> <h1 className="title">INFORMED CONSENT FOR CROWNS</h1></div>

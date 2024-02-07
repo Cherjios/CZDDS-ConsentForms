@@ -13,18 +13,19 @@ function Dentures() {
             </div>
 
             <div className="row">
-                <div className="col"> <Jumbotron />
-                </div>
+                <div className="col"> <Jumbotron /></div>
             </div>
 
             <div className="textlink1">
-                <Link to="/CZDDS-ConsentForms/denturesSp" className="textlink2">Spanish </Link>
+                <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/denturesSp" className="alink">Español</Link></button>
             </div>
-
+            
+            <br />
+                        
             <div className="row">
                 <div className="col"> <h1 className="title">INFORMED CONSENT FOR COMPLETE OR PARTIAL DENTURES</h1></div>
             </div>
-            <br />
+            
 
             <div className="row">
                 <div className="col"> <h3>FACTS  FOR CONSIDERATION </h3></div>
