@@ -10,7 +10,7 @@ function ExtractionsSp() {
 
     return (
 
-        <div className="container">
+        <div className="container bg-warning-subtle">
 
             <div className="row">
                 <div className="col"> <Navbar /></div>

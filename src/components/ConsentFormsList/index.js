@@ -1,58 +1,40 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+
 function Content() {
     return (
         <div classNameName="container">
             <div classNameName="row">
                 <div classNameName="col">
-                    <h1>English</h1>
                     <ul className="list-group">
                         <li className="list-group-item">
-                            <Link to="/extractions" >Extraction</Link></li>
+                            <Link to="/bridge"> Bridge</Link> / <Link to="/bridgeSp">Puentes</Link>
+                        </li>
                         <li className="list-group-item">
-                            <Link to="/deep-cleaning">Deep Cleaning</Link></li>
+                            <Link to="/crowns"> Crown</Link> / <Link to="/crownsSp">Coronas</Link></li>
                         <li className="list-group-item">
-                        <Link to="/root-canal">Root Canal</Link></li>
+                            <Link to="/deep-cleaning">Deep Cleaning</Link> / <Link to ="/deep-cleaning-sp">Limpieza Profunda</Link>
+                        </li>
                         <li className="list-group-item">
-                        <Link to="/crowns"> Crown</Link></li>
+                            <Link to="/dentures">Dentures</Link> / <Link to="/denturesSp">Dentaduras</Link>
+                        </li>
                         <li className="list-group-item">
-                        <Link to="/bridge"> Bridge</Link></li>
+                            <Link to="/extractions" >Extraction</Link> / <Link to="/extractions-sp">Extracciones</Link>
+                        </li>
                         <li className="list-group-item">
-                        <Link to="/dentures">Dentures</Link></li>
+                            <Link to="/implant">Implants</Link> / <Link to="/implantSp">Implantes</Link>
+                        </li>
+                        <li className="list-group-item">                        
+                            <Link to="/root-canal">Root Canal</Link> / <Link to="/root-canal-sp">Endodoncia </Link>
+                        </li>                                           
                         <li className="list-group-item">
-                        <Link to="/whitening">Whitening</Link></li>
-                        <li className="list-group-item">
-                        <Link to="/implant">Implants</Link></li>
+                        <Link to="/whitening">Whitening</Link> / <Link to="/whiteningSp">Blanqueamiento</Link>
+                        </li>
                     </ul>
                 </div>
-                <div classNameName="col">
-                    <h1>Spanish</h1>
-                    <ul className="list-group">
-                        <li className="list-group-item">
-                            <Link to="/extractions-sp">Extracciones</Link></li>
-                        <li className="list-group-item">
-                            <Link to ="/deep-cleaning-sp">Limpieza Profunda</Link></li>
-                        <li className="list-group-item">
-                        <Link to="/root-canal-sp">Endodoncia </Link></li>
-                        <li className="list-group-item">
-                        <Link to="/crownsSp">Coronas</Link></li>
-                        <li className="list-group-item">
-                        <Link to="/bridgeSp">Puentes</Link></li>
-                        <li className="list-group-item">
-                        <Link to="/denturesSp">Dentaduras</Link></li>
-                        <li className="list-group-item">
-                        <Link to="/whiteningSp">Blanqueamiento</Link></li>
-                        <li className="list-group-item">
-                        <Link to="/implantSp">Implantes</Link></li>
-                        
-                    </ul>
-                </div>
-
-                
             </div>
         </div>
     )
 }
-
 export default Content;

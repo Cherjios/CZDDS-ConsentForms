@@ -7,7 +7,7 @@ import Footer from "../../components/Footer";
 
 function Dentures() {
     return (
-        <div className="container">
+        <div className="container bg-warning-subtle">
             <div className="row">
                 <div className="col"><Navbar /></div>
             </div>

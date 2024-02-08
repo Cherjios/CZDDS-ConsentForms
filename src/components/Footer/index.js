@@ -7,10 +7,9 @@ function Footer() {
     return (
 
         <div>
-            {/* As a Footer  */}
-            <nav className="navbar navbar-light bg-light">
+            <nav>
                 <div className="container-fluid">
-                <button type="button" className="btn btn-outline-primary" fdprocessedid="t7kb4"><Link to ="/" className="alink">Home </Link></button>
+                <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/" className="alink">Home </Link></button>
                 </div>
             </nav>
            

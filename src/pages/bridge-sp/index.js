@@ -10,7 +10,7 @@ import Footer from "../../components/Footer";
 function BridgeSp() {
     return (
 
-        <div className="container">
+        <div className="container bg-warning-subtle">
             <div className="row">
                 <div className="col"><Navbar /></div>
             </div>
