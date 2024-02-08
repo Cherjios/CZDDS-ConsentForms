@@ -7,7 +7,6 @@ import Extractions from "./pages/extractions";
 import ExtractionsSp from "./pages/extractionsSp";
 import Deepcleaning from "./pages/deep-cleaning";
 import Deepcleaningsp from "./pages/deep-cleaningSp";
-import logo from './logo.svg';
 import './App.css';
 import RootCanal from "./pages/root-canal";
 import RootCanalSp from "./pages/root-canalSp";
