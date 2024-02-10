@@ -10,6 +10,7 @@ function Navbar() {
         <div>
             <nav>
                 <div className="container-fluid">
+                    <br />
                 <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/" className="alink">Home </Link></button>
                  </div>
             </nav>

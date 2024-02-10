@@ -10,6 +10,8 @@ function Footer() {
             <nav>
                 <div className="container-fluid">
                 <button type="button" className="btn btn-outline-danger" fdprocessedid="t7kb4"><Link to ="/" className="alink">Home </Link></button>
+                <br/>
+                <br />
                 </div>
             </nav>
            
