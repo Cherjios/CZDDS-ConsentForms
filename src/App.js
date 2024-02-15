@@ -20,6 +20,8 @@ import Whitening from "./pages/whitening";
 import WhiteningSp from "./pages/whiteningSp";
 import Implant from "./pages/implant";
 import Implantsp from "./pages/implantSp";
+import FixedOrtho from "./pages/FixedOrtho";
+import FixedOrthoSp from "./pages/FixedOrtoSp";
  
 
 export default function App(){
@@ -43,7 +45,9 @@ return(
       <Route path="/whiteningSp" element={<WhiteningSp />} />
       <Route path="/implant" element={<Implant />} />
       <Route path="/implantSp" element={<Implantsp />}/>
-
+      <Route path="/fixedOrtho" element={<FixedOrtho />}/>
+      <Route path="/fixedOrthoSp" element={<FixedOrthoSp />}/>
+      <Route path="/*" element={<Home/>}/>
     </Routes>
   </BrowserRouter>
 );

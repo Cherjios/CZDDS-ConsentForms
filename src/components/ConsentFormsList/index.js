@@ -29,7 +29,10 @@ function Content() {
                             <Link to="/root-canal">Root Canal</Link> / <Link to="/root-canal-sp">Endodoncia </Link>
                         </li>                                           
                         <li className="list-group-item">
-                        <Link to="/whitening">Whitening</Link> / <Link to="/whiteningSp">Blanqueamiento</Link>
+                            <Link to="/whitening">Whitening</Link> / <Link to="/whiteningSp">Blanqueamiento</Link>
+                        </li>
+                        <li className="list-group-item">
+                            <Link to="/fixedortho">Fixed ortho</Link> / <Link to="/fixedorthoSp">Ortodoncia braquets</Link>
                         </li>
                     </ul>
                 </div>
