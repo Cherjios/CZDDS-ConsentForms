@@ -107,7 +107,7 @@ function FixedOrtho (){
                 I consent to the taking of photographs and x-rays before, during and after treatment and to the use of same by the doctor in scientific papers or demonstrations. I certify that I have read or had read to me the contents of this form and do realize the risks and limitations involved and do consent to orthodontic treatment. 
                 </li>
                 <li>
-                By signing this document, I consent to the orthodontic treatment described by doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to orthodontic treatment with the doctor. I had the opportunity to ask questions, and I understood what has been explained.
+                By signing this document, <b>I consent to the orthodontic treatment described by doctor, Cesar E. Zamora Perez D.D.S. </b> I attest that I have discussed the risk, benefits, consequences, and alternatives to orthodontic treatment with the doctor. I had the opportunity to ask questions, and I understood what has been explained.
                 </li>
             </ol>
 

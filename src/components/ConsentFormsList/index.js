@@ -23,6 +23,9 @@ function Content() {
                             <Link to="/extractions" >Extraction</Link> / <Link to="/extractions-sp">Extracciones</Link>
                         </li>
                         <li className="list-group-item">
+                            <Link to="/fixedortho">Fixed ortho</Link> / <Link to="/fixedorthoSp">Ortodoncia braquets</Link>
+                        </li>
+                        <li className="list-group-item">
                             <Link to="/implant">Implants</Link> / <Link to="/implantSp">Implantes</Link>
                         </li>
                         <li className="list-group-item">                        
@@ -31,9 +34,8 @@ function Content() {
                         <li className="list-group-item">
                             <Link to="/whitening">Whitening</Link> / <Link to="/whiteningSp">Blanqueamiento</Link>
                         </li>
-                        <li className="list-group-item">
-                            <Link to="/fixedortho">Fixed ortho</Link> / <Link to="/fixedorthoSp">Ortodoncia braquets</Link>
-                        </li>
+                                               
+                        
                     </ul>
                 </div>
             </div>

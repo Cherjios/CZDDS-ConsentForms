@@ -1,7 +1,7 @@
 import React from "react";
 import Jumbotron from "../../components/Jumbotron";
 import Navbar from "../../components/Navbar";
-import Proceets from "../../components/proceets";
+import SPproceets from "../../components/SPproceets";
 import { Link } from "react-router-dom";
 import Footer from "../../components/Footer";
 
@@ -101,15 +101,15 @@ function FixedOrtho (){
             </ol>
             <br/>
             <h3>
-                $50.00 will be added to your account for every bracket lost or re-bonding.
+            Se agregarán $ 50.00 a su cuenta por cada Barquet perdido o recolocado
             </h3>
             <br/>
             <ol>
                 <li>
-                I consent to the taking of photographs and x-rays before, during and after treatment and to the use of same by the doctor in scientific papers or demonstrations. I certify that I have read or had read to me the contents of this form and do realize the risks and limitations involved and do consent to orthodontic treatment. 
+                Doy mi consentimiento para la toma de fotografías y radiografías antes, durante y después del tratamiento y para el uso de las mismas por parte del médico en trabajos científicos o demostraciones. Certifico que he leído o me han leído el contenido de este formulario y me doy cuenta de los riesgos y limitaciones involucrados y doy mi consentimiento para el tratamiento de ortodoncia.
                 </li>
                 <li>
-                By signing this document, I consent to the orthodontic treatment described by doctor, Cesar E. Zamora Perez D.D.S. I attest that I have discussed the risk, benefits, consequences, and alternatives to orthodontic treatment with the doctor. I had the opportunity to ask questions, and I understood what has been explained.
+                Al firmar este documento, <b> doy mi consentimiento para el tratamiento de ortodoncia descrito por el médico Cesar E. Zamora Pérez D.D.S.</b> Doy fe de que he hablado con el médico sobre los riesgos, los beneficios, las consecuencias y las alternativas al tratamiento de ortodoncia. Tuve la oportunidad de hacer preguntas y comprendo lo que se ha explicado.
                 </li>
             </ol>
 
@@ -118,7 +118,7 @@ function FixedOrtho (){
         <br />
         <div className="row">
                 <div className="col">
-                    <Proceets />
+                    <SPproceets />
                     <Footer />
 
                 </div>
